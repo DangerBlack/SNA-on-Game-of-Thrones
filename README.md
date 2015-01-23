@@ -4,9 +4,10 @@ A social network analysis of game of thrones romance
 Installation
 -----------
 
-	first of all you need python and python pp installed on your machine
-	after then you have to create in the main folder the folder named as "res"
-	with 2 subfolder "finale" and "working"
+	First of all you need python and python pp installed on your machine.
+	After then you have to create in the main folder the folder named as "res"
+	with 2 subfolder "finale" and "working".
+	You also need the first volume of chronicles of ice and fire as a txt file in the main folder (default name "volume1.txt")
 
 
 Usage
