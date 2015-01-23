@@ -7,7 +7,8 @@ Installation
 	First of all you need python and python pp installed on your machine.
 	After then you have to create in the main folder the folder named as "res"
 	with 2 subfolder "finale" and "working".
-	You also need the first volume of chronicles of ice and fire as a txt file in the main folder (default name "volume1.txt")
+	You also need the first volume of chronicles of ice and fire as a txt file 
+	in the main folder (default name "volume1.txt")
 
 
 Usage
