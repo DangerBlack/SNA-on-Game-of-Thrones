@@ -1,0 +1,124 @@
+Jon Arryn,56203,2
+Jon Arryn,105711,4
+Jon Arryn,109740,4
+Jon Arryn,201505,8
+Jon Arryn,270687,12
+Jon Arryn,273170,12
+Jon Arryn,273244,12
+Jon Arryn,273537,12
+Jon Arryn,284383,12
+Jon Arryn,330522,14
+Jon Arryn,488767,20
+Jon Arryn,490690,20
+Jon Arryn,494253,20
+Jon Arryn,614956,25
+Jon Arryn,625593,25
+Jon Arryn,668186,27
+Jon Arryn,672341,27
+Jon Arryn,672935,27
+Jon Arryn,674058,27
+Jon Arryn,674388,27
+Jon Arryn,676950,27
+Jon Arryn,677161,27
+Jon Arryn,690955,27
+Jon Arryn,700244,28
+Jon Arryn,758089,30
+Jon Arryn,758811,30
+Jon Arryn,758928,30
+Jon Arryn,760754,30
+Jon Arryn,762257,30
+Jon Arryn,762878,30
+Jon Arryn,775072,30
+Jon Arryn,782131,30
+Jon Arryn,793267,30
+Jon Arryn,794023,30
+Jon Arryn,794763,30
+Jon Arryn,864566,33
+Jon Arryn,874948,33
+Jon Arryn,875939,33
+Jon Arryn,884207,34
+Jon Arryn,897302,34
+Jon Arryn,903960,34
+Jon Arryn,920661,34
+Jon Arryn,926602,34
+Jon Arryn,935805,35
+Jon Arryn,936297,35
+Jon Arryn,1010016,38
+Jon Arryn,1027366,38
+Jon Arryn,1059634,40
+Jon Arryn,1080802,40
+Jon Arryn,1169685,45
+Jon Arryn,1170322,45
+Jon Arryn,1173911,45
+Jon Arryn,1176858,45
+Jon Arryn,1180381,45
+Jon Arryn,1182460,45
+Jon Arryn,1185719,45
+Jon Arryn,1238606,47
+Jon Arryn,1240768,47
+Jon Arryn,1244075,47
+Jon Arryn,1516917,58
+Jon Arryn,1556716,59
+Jon Arryn,1559741,59
+Jon Arryn,1940259,74
+lord del Nido dell'Aquila,56701,2
+lord del Nido dell'Aquila,107196,4
+lord del Nido dell'Aquila,109755,4
+lord del Nido dell'Aquila,672946,27
+lord del Nido dell'Aquila,887810,34
+lord del Nido dell'Aquila,898551,34
+lord del Nido dell'Aquila,924359,34
+lord del Nido dell'Aquila,925828,34
+lord del Nido dell'Aquila,927866,34
+lord del Nido dell'Aquila,1007948,38
+lord del Nido dell'Aquila,1058823,40
+lord del Nido dell'Aquila,1076722,40
+lord del Nido dell'Aquila,1081966,40
+lord del Nido dell'Aquila,1082629,40
+lord del Nido dell'Aquila,1937618,74
+lord del Nido dell'Aquila,1938111,74
+difensore della valle,925856,34
+difensore della valle,1068888,40
+difensore della valle,1937645,74
+difensore della valle,1938139,74
+protettore dell'Est,109782,4
+protettore dell'Est,887867,34
+protettore dell'Est,896650,34
+protettore dell'Est,1937668,74
+Primo Cavaliere del re,112865,4
+Primo Cavaliere del re,113066,4
+Primo Cavaliere del re,143496,6
+Primo Cavaliere del re,299425,13
+Primo Cavaliere del re,330533,14
+Primo Cavaliere del re,356618,15
+Primo Cavaliere del re,372432,16
+Primo Cavaliere del re,372461,16
+Primo Cavaliere del re,420794,18
+Primo Cavaliere del re,526331,22
+Primo Cavaliere del re,608883,25
+Primo Cavaliere del re,672974,27
+Primo Cavaliere del re,681925,27
+Primo Cavaliere del re,685709,27
+Primo Cavaliere del re,686615,27
+Primo Cavaliere del re,688219,27
+Primo Cavaliere del re,748661,30
+Primo Cavaliere del re,794782,30
+Primo Cavaliere del re,852220,32
+Primo Cavaliere del re,870231,33
+Primo Cavaliere del re,929537,35
+Primo Cavaliere del re,938029,35
+Primo Cavaliere del re,938065,35
+Primo Cavaliere del re,1008290,38
+Primo Cavaliere del re,1027377,38
+Primo Cavaliere del re,1062903,40
+Primo Cavaliere del re,1130429,43
+Primo Cavaliere del re,1224600,47
+Primo Cavaliere del re,1238924,47
+Primo Cavaliere del re,1243056,47
+Primo Cavaliere del re,1269397,49
+Primo Cavaliere del re,1352917,52
+Primo Cavaliere del re,1494099,57
+Primo Cavaliere del re,1554351,59
+Primo Cavaliere del re,1737477,65
+Primo Cavaliere del re,1742537,65
+Primo Cavaliere del re,1937689,74

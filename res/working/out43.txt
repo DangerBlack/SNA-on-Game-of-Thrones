@@ -1,0 +1,217 @@
+Tywin Lannister,106536,4
+Tywin Lannister,106701,4
+Tywin Lannister,270223,12
+Tywin Lannister,271192,12
+Tywin Lannister,279522,12
+Tywin Lannister,498646,21
+Tywin Lannister,763079,30
+Tywin Lannister,768606,30
+Tywin Lannister,804601,31
+Tywin Lannister,926904,34
+Tywin Lannister,954667,36
+Tywin Lannister,1136272,43
+Tywin Lannister,1136459,43
+Tywin Lannister,1137687,43
+Tywin Lannister,1140336,43
+Tywin Lannister,1141063,43
+Tywin Lannister,1187104,45
+Tywin Lannister,1391675,53
+Tywin Lannister,1445659,55
+Tywin Lannister,1456583,55
+Tywin Lannister,1459373,55
+Tywin Lannister,1462428,55
+Tywin Lannister,1472996,56
+Tywin Lannister,1484444,56
+Tywin Lannister,1484478,56
+Tywin Lannister,1494015,57
+Tywin Lannister,1499708,57
+Tywin Lannister,1553248,59
+Tywin Lannister,1554486,59
+Tywin Lannister,1564253,59
+Tywin Lannister,1620672,62
+Tywin Lannister,1624026,62
+Tywin Lannister,1642352,62
+Tywin Lannister,1643953,62
+Tywin Lannister,1645676,62
+Tywin Lannister,1665429,62
+Tywin Lannister,1825750,69
+Tywin Lannister,1830927,69
+Tywin Lannister,1842095,69
+Tywin Lannister,1897409,71
+Tywin Lannister,1898067,71
+Tywin,106536,4
+Tywin,106701,4
+Tywin,107276,4
+Tywin,108052,4
+Tywin,122592,5
+Tywin,270223,12
+Tywin,271192,12
+Tywin,276454,12
+Tywin,279522,12
+Tywin,299396,13
+Tywin,472777,20
+Tywin,498646,21
+Tywin,506095,21
+Tywin,619014,25
+Tywin,754827,30
+Tywin,759080,30
+Tywin,763079,30
+Tywin,768606,30
+Tywin,802062,31
+Tywin,802172,31
+Tywin,804601,31
+Tywin,811235,31
+Tywin,825135,31
+Tywin,832728,32
+Tywin,848412,32
+Tywin,859250,32
+Tywin,926904,34
+Tywin,935170,35
+Tywin,954667,36
+Tywin,1014223,38
+Tywin,1052192,40
+Tywin,1119717,42
+Tywin,1122744,42
+Tywin,1122887,42
+Tywin,1123516,42
+Tywin,1125422,42
+Tywin,1136272,43
+Tywin,1136459,43
+Tywin,1137537,43
+Tywin,1137687,43
+Tywin,1140018,43
+Tywin,1140336,43
+Tywin,1141063,43
+Tywin,1141940,43
+Tywin,1148189,43
+Tywin,1168168,45
+Tywin,1168652,45
+Tywin,1171459,45
+Tywin,1175472,45
+Tywin,1187104,45
+Tywin,1232120,47
+Tywin,1238456,47
+Tywin,1242250,47
+Tywin,1391675,53
+Tywin,1445659,55
+Tywin,1446086,55
+Tywin,1453115,55
+Tywin,1454664,55
+Tywin,1455579,55
+Tywin,1456161,55
+Tywin,1456583,55
+Tywin,1457899,55
+Tywin,1459079,55
+Tywin,1459373,55
+Tywin,1460003,55
+Tywin,1460503,55
+Tywin,1461454,55
+Tywin,1462084,55
+Tywin,1462428,55
+Tywin,1464168,56
+Tywin,1470241,56
+Tywin,1472996,56
+Tywin,1473354,56
+Tywin,1473856,56
+Tywin,1474066,56
+Tywin,1474418,56
+Tywin,1475209,56
+Tywin,1475440,56
+Tywin,1476597,56
+Tywin,1477566,56
+Tywin,1478450,56
+Tywin,1479054,56
+Tywin,1479358,56
+Tywin,1479718,56
+Tywin,1481849,56
+Tywin,1483509,56
+Tywin,1483710,56
+Tywin,1484326,56
+Tywin,1484444,56
+Tywin,1484478,56
+Tywin,1485372,56
+Tywin,1485964,56
+Tywin,1486269,56
+Tywin,1487242,56
+Tywin,1494015,57
+Tywin,1499708,57
+Tywin,1533058,59
+Tywin,1534375,59
+Tywin,1535370,59
+Tywin,1535898,59
+Tywin,1537014,59
+Tywin,1537671,59
+Tywin,1538032,59
+Tywin,1540659,59
+Tywin,1553248,59
+Tywin,1554294,59
+Tywin,1554486,59
+Tywin,1554892,59
+Tywin,1558966,59
+Tywin,1559120,59
+Tywin,1564253,59
+Tywin,1620672,62
+Tywin,1621615,62
+Tywin,1622241,62
+Tywin,1624026,62
+Tywin,1624626,62
+Tywin,1625283,62
+Tywin,1625708,62
+Tywin,1626161,62
+Tywin,1626492,62
+Tywin,1629118,62
+Tywin,1642352,62
+Tywin,1643715,62
+Tywin,1643953,62
+Tywin,1644500,62
+Tywin,1645676,62
+Tywin,1661376,62
+Tywin,1663370,62
+Tywin,1663981,62
+Tywin,1665014,62
+Tywin,1665363,62
+Tywin,1665429,62
+Tywin,1666042,62
+Tywin,1685146,63
+Tywin,1685230,63
+Tywin,1825750,69
+Tywin,1826851,69
+Tywin,1830927,69
+Tywin,1831215,69
+Tywin,1834686,69
+Tywin,1837458,69
+Tywin,1838013,69
+Tywin,1838166,69
+Tywin,1838900,69
+Tywin,1839124,69
+Tywin,1839724,69
+Tywin,1840234,69
+Tywin,1840389,69
+Tywin,1840774,69
+Tywin,1841243,69
+Tywin,1842095,69
+Tywin,1842427,69
+Tywin,1843221,69
+Tywin,1843681,69
+Tywin,1845528,69
+Tywin,1846743,69
+Tywin,1847171,69
+Tywin,1897409,71
+Tywin,1898067,71
+Tywin,1898277,71
+Tywin,1898633,71
+Tywin,1900678,71
+Tywin,1901733,71
+Tywin,1901860,71
+Tywin,1936131,74
+Tywin,1936648,74
+Tywin,1936808,74
+lord di Castel Granito,1473013,56
+lord di Castel Granito,1483555,56
+lord di Castel Granito,1494032,57
+lord di Castel Granito,1935750,74
+protettore dell'Ovest,1473037,56
+protettore dell'Ovest,1494056,57
+protettore dell'Ovest,1554328,59
+protettore dell'Ovest,1935774,74
+difensore di Lannisport,1935797,74

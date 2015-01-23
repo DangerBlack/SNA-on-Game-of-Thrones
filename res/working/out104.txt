@@ -1,0 +1,23 @@
+Lord Frey,1533642,59
+Lord Frey,1537708,59
+Lord Frey,1539585,59
+Lord Frey,1553054,59
+Walder Frey,720069,29
+Walder Frey,803131,31
+Walder Frey,1477481,56
+Walder Frey,1493065,57
+Walder Frey,1533177,59
+Walder Frey,1534055,59
+Walder Frey,1535050,59
+Walder Frey,1536704,59
+Walder Frey,1546870,59
+Walder Frey,1559025,59
+Walder Frey,1563854,59
+Walder Frey,1674096,63
+Walder Frey,1889963,71
+Walder Frey,1897996,71
+Walder Frey,1906635,71
+Walder Frey,1940677,74
+signore del Guado,1547069,59
+lord del Guado,1533190,59
+lord del Guado,1940690,74

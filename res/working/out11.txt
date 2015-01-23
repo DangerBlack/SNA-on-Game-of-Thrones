@@ -1,0 +1,140 @@
+Barristan Selmy,185470,8
+Barristan Selmy,355904,15
+Barristan Selmy,384403,16
+Barristan Selmy,722605,29
+Barristan Selmy,736187,29
+Barristan Selmy,747148,30
+Barristan Selmy,754028,30
+Barristan Selmy,756397,30
+Barristan Selmy,757158,30
+Barristan Selmy,775658,30
+Barristan Selmy,791709,30
+Barristan Selmy,866478,33
+Barristan Selmy,867951,33
+Barristan Selmy,961760,36
+Barristan Selmy,1174816,45
+Barristan Selmy,1176047,45
+Barristan Selmy,1218916,47
+Barristan Selmy,1229879,47
+Barristan Selmy,1270190,49
+Barristan Selmy,1491137,57
+Barristan Selmy,1496350,57
+Barristan Selmy,1517060,58
+Barristan Selmy,1568315,60
+Barristan Selmy,1845634,69
+Barristan Selmy,1931879,74
+Barristan Selmy,1932405,74
+Barristan,184828,8
+Barristan,185470,8
+Barristan,185487,8
+Barristan,185633,8
+Barristan,355904,15
+Barristan,356329,15
+Barristan,356369,15
+Barristan,357180,15
+Barristan,375240,16
+Barristan,378036,16
+Barristan,384403,16
+Barristan,419718,18
+Barristan,470001,20
+Barristan,470188,20
+Barristan,624032,25
+Barristan,624214,25
+Barristan,722605,29
+Barristan,736187,29
+Barristan,747148,30
+Barristan,747997,30
+Barristan,749175,30
+Barristan,749987,30
+Barristan,750803,30
+Barristan,751151,30
+Barristan,754028,30
+Barristan,756397,30
+Barristan,756732,30
+Barristan,756874,30
+Barristan,757158,30
+Barristan,757486,30
+Barristan,757628,30
+Barristan,775658,30
+Barristan,776865,30
+Barristan,780456,30
+Barristan,791116,30
+Barristan,791709,30
+Barristan,791775,30
+Barristan,864667,33
+Barristan,865025,33
+Barristan,865237,33
+Barristan,866478,33
+Barristan,867951,33
+Barristan,961760,36
+Barristan,1127322,43
+Barristan,1174816,45
+Barristan,1176047,45
+Barristan,1218916,47
+Barristan,1219113,47
+Barristan,1221146,47
+Barristan,1229879,47
+Barristan,1230137,47
+Barristan,1230976,47
+Barristan,1231310,47
+Barristan,1231987,47
+Barristan,1270190,49
+Barristan,1270455,49
+Barristan,1272003,49
+Barristan,1272460,49
+Barristan,1273821,49
+Barristan,1275323,49
+Barristan,1277619,49
+Barristan,1278454,49
+Barristan,1278730,49
+Barristan,1356868,52
+Barristan,1491137,57
+Barristan,1496350,57
+Barristan,1496440,57
+Barristan,1496622,57
+Barristan,1497613,57
+Barristan,1498008,57
+Barristan,1499306,57
+Barristan,1500018,57
+Barristan,1500980,57
+Barristan,1505486,57
+Barristan,1510583,58
+Barristan,1517060,58
+Barristan,1568315,60
+Barristan,1568628,60
+Barristan,1568844,60
+Barristan,1569041,60
+Barristan,1845634,69
+Barristan,1845714,69
+Barristan,1931879,74
+Barristan,1932405,74
+Selmy,185480,8
+Selmy,355914,15
+Selmy,384413,16
+Selmy,722615,29
+Selmy,736197,29
+Selmy,747158,30
+Selmy,754038,30
+Selmy,756407,30
+Selmy,757168,30
+Selmy,757518,30
+Selmy,775668,30
+Selmy,791719,30
+Selmy,866488,33
+Selmy,867961,33
+Selmy,868101,33
+Selmy,961770,36
+Selmy,1174826,45
+Selmy,1176057,45
+Selmy,1218926,47
+Selmy,1229889,47
+Selmy,1270200,49
+Selmy,1491147,57
+Selmy,1496360,57
+Selmy,1517070,58
+Selmy,1568325,60
+Selmy,1568480,60
+Selmy,1845644,69
+Selmy,1931889,74
+Selmy,1932415,74
+Selmy,1932635,74

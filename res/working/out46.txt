@@ -1,0 +1,100 @@
+Gregor Clegane,718286,29
+Gregor Clegane,725156,29
+Gregor Clegane,767681,30
+Gregor Clegane,768711,30
+Gregor Clegane,769388,30
+Gregor Clegane,773087,30
+Gregor Clegane,773420,30
+Gregor Clegane,773603,30
+Gregor Clegane,773888,30
+Gregor Clegane,774520,30
+Gregor Clegane,1135951,43
+Gregor Clegane,1136227,43
+Gregor Clegane,1140832,43
+Gregor Clegane,1141147,43
+Gregor Clegane,1144898,43
+Gregor Clegane,1145971,43
+Gregor Clegane,1146084,43
+Gregor Clegane,1157468,44
+Gregor Clegane,1168244,45
+Gregor Clegane,1223579,47
+Gregor Clegane,1455312,55
+Gregor Clegane,1512610,58
+Gregor Clegane,1626229,62
+Gregor Clegane,1645884,62
+Gregor Clegane,1652158,62
+Gregor Clegane,1830196,69
+Gregor Clegane,1905429,71
+Gregor Clegane,1936934,74
+La Montagna che cavalca,774347,30
+La Montagna che cavalca,1135854,43
+La Montagna,771777,30
+La Montagna,774347,30
+La Montagna,1135854,43
+La Montagna,1144797,43
+Gregor,718286,29
+Gregor,722835,29
+Gregor,723001,29
+Gregor,723353,29
+Gregor,725156,29
+Gregor,726916,29
+Gregor,741036,29
+Gregor,741387,29
+Gregor,741617,29
+Gregor,741644,29
+Gregor,744135,29
+Gregor,744307,29
+Gregor,744647,29
+Gregor,745236,29
+Gregor,745411,29
+Gregor,767681,30
+Gregor,768114,30
+Gregor,768403,30
+Gregor,768711,30
+Gregor,769388,30
+Gregor,769903,30
+Gregor,770996,30
+Gregor,771241,30
+Gregor,771642,30
+Gregor,772033,30
+Gregor,772296,30
+Gregor,773087,30
+Gregor,773420,30
+Gregor,773603,30
+Gregor,773888,30
+Gregor,774520,30
+Gregor,774877,30
+Gregor,775357,30
+Gregor,776720,30
+Gregor,1135951,43
+Gregor,1136227,43
+Gregor,1136839,43
+Gregor,1137253,43
+Gregor,1137291,43
+Gregor,1140832,43
+Gregor,1141147,43
+Gregor,1141697,43
+Gregor,1141835,43
+Gregor,1144705,43
+Gregor,1144898,43
+Gregor,1145285,43
+Gregor,1145971,43
+Gregor,1146084,43
+Gregor,1149633,44
+Gregor,1157468,44
+Gregor,1158039,44
+Gregor,1168244,45
+Gregor,1223579,47
+Gregor,1455312,55
+Gregor,1477301,56
+Gregor,1512610,58
+Gregor,1626229,62
+Gregor,1645884,62
+Gregor,1648377,62
+Gregor,1651453,62
+Gregor,1652158,62
+Gregor,1830196,69
+Gregor,1830985,69
+Gregor,1843252,69
+Gregor,1905429,71
+Gregor,1936934,74

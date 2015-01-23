@@ -1,0 +1,105 @@
+Robert Baratheon,Maschio
+Cersei,Femmina
+Joffrey,Maschio
+Myrcella,Femmina
+Tommen,Maschio
+Stannis,Maschio
+Selyse,Femmina
+Shireen,Femmina
+Renly,Maschio
+Pycelle,Maschio
+Petyr Baelish,Maschio
+Barristan Selmy,Maschio
+Varys,Maschio
+Ilyn Payne,Maschio
+Sandor Clegane,Maschio
+Janos Slynt,Maschio
+Jalabhar Xho,Maschio
+Ragazzo di luna,Maschio
+Lancel,Maschio
+Jaime Lannister,Maschio
+Boros Blount,Maschio
+Meryn Trant,Maschio
+Arys Oakheart,Maschio
+Preston Greenfield,Maschio
+Mandon Moore,Maschio
+Eddard Stark,Maschio
+Catelyn,Femmina
+Robb,Maschio
+Sansa,Femmina
+Arya,Femmina
+Bran,Maschio
+Rickon,Maschio
+Jon Snow,Maschio
+Theon Greyjoy,Maschio
+Lyanna,Femmina
+Maestro Luwin,Maschio
+vecchia Nan,Femmina
+Hodor,Maschio
+Helman Tallhart,Maschio
+Rickard Karstark,Maschio
+Roose Bolton,Maschio
+Jon Umber,Maschio
+Wyman Manderly,Maschio
+Tywin Lannister,Maschio
+Tyrion,Maschio
+Kevan,Maschio
+Gregor Clegane,Maschio
+Vargo Hoat,Maschio
+Jon Arryn,Maschio
+Lysa Tully,Femmina
+Robert Arryn,Maschio
+Maestro Colemon,Maschio
+Ser Vardis Egen,Maschio
+Bryden Tully,Maschio
+Mya Stone,Femmina
+Hoster Tully,Maschio
+Mace Tyrell,Maschio
+Lady Alerie,Tyrell
+Willas,Maschio
+Garlan,Maschio
+Loras,Maschio
+Margaery,Femmina
+Olenna,Femmina
+Balon Greyjoy,Maschio
+Alannys,Femmina
+Asha,Femmina
+Euron,Maschio
+Vìctarion,Maschio
+Aeron,Maschio
+Doran Nymerios Martell,Maschio
+Mellario,Maschio
+Arianne,Femmina
+Quentyn,Maschio
+Trystane,Femmina
+Elia,Martell
+Oberyn,Maschio
+Areo Hotah,Maschio
+Maestro Caleotte,Maschio
+Aerys Targaryen,Maschio
+Rhaella,Femmina
+Rhaegar,Maschio
+Rhaenys,Maschio
+Aegon,Maschio
+Viserys,Maschio
+Daenerys,Femmina
+Khal Drogo,Maschio
+Illyrio Mopatis,Maschio
+Pono,Maschio
+Jhaqo,Maschio
+Jorah Mormont,Maschio
+Irri,Femmina
+Davos Seaworth,Maschio
+Rodrick Cassel,Maschio
+Jeor Mormont,Maschio
+Benjen Stark,Maschio
+Maestro Aemon,Maschio
+Samwell Tarly,Maschio
+Ser Alliser Thorne,Maschio
+Yoren,Maschio
+Donal Noye,Maschio
+Cotter Pyke,Maschio
+Quorin il Monco,Maschio
+Mance Ryder,Maschio
+Osha,Femmina
+Lord Frey,Maschio

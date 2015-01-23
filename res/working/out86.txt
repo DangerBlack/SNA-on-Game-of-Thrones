@@ -1,0 +1,82 @@
+Illyrio Mopatis,84476,3
+Magistro Illyrio,63085,3
+Magistro Illyrio,75806,3
+Magistro Illyrio,82187,3
+Magistro Illyrio,90858,3
+Magistro Illyrio,237714,11
+Magistro Illyrio,250850,11
+Magistro Illyrio,551582,23
+Magistro Illyrio,567918,23
+Magistro Illyrio,574152,23
+Illyrio,61998,3
+Illyrio,62371,3
+Illyrio,62909,3
+Illyrio,63094,3
+Illyrio,63811,3
+Illyrio,65232,3
+Illyrio,71654,3
+Illyrio,72117,3
+Illyrio,74428,3
+Illyrio,75114,3
+Illyrio,75815,3
+Illyrio,77021,3
+Illyrio,77214,3
+Illyrio,77571,3
+Illyrio,77843,3
+Illyrio,78238,3
+Illyrio,78558,3
+Illyrio,79646,3
+Illyrio,80336,3
+Illyrio,80372,3
+Illyrio,80875,3
+Illyrio,81308,3
+Illyrio,81526,3
+Illyrio,82196,3
+Illyrio,82769,3
+Illyrio,83149,3
+Illyrio,83627,3
+Illyrio,84476,3
+Illyrio,85523,3
+Illyrio,85879,3
+Illyrio,86071,3
+Illyrio,86938,3
+Illyrio,87651,3
+Illyrio,89805,3
+Illyrio,90757,3
+Illyrio,90867,3
+Illyrio,237037,11
+Illyrio,237723,11
+Illyrio,238025,11
+Illyrio,238797,11
+Illyrio,239573,11
+Illyrio,242152,11
+Illyrio,242458,11
+Illyrio,244310,11
+Illyrio,245382,11
+Illyrio,246902,11
+Illyrio,248503,11
+Illyrio,248859,11
+Illyrio,249519,11
+Illyrio,250859,11
+Illyrio,251768,11
+Illyrio,252447,11
+Illyrio,253612,11
+Illyrio,253723,11
+Illyrio,254223,11
+Illyrio,256052,11
+Illyrio,551591,23
+Illyrio,552105,23
+Illyrio,556696,23
+Illyrio,567927,23
+Illyrio,571528,23
+Illyrio,574161,23
+Illyrio,950672,36
+Illyrio,951008,36
+Illyrio,957763,36
+Illyrio,963607,36
+Illyrio,1205471,46
+Illyrio,1211299,46
+Illyrio,1412420,54
+Illyrio,1428523,54
+Illyrio,1429703,54
+Illyrio,1602299,61

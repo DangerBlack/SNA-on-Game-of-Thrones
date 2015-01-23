@@ -1,0 +1,8 @@
+Rhaenys,271242,12
+Rhaenys,407367,18
+Rhaenys,1529978,58
+Rhaenys,1530197,58
+Rhaenys,1948275,74
+Rhaenys,1949823,74
+Rhaenys,1949887,74
+Rhaenys,1952089,74

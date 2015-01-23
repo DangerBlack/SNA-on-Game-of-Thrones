@@ -1,0 +1,25 @@
+Balon Greyjoy,93306,4
+Balon Greyjoy,580688,24
+Balon Greyjoy,769113,30
+Balon Greyjoy,1176160,45
+Balon Greyjoy,1242777,47
+Balon,93306,4
+Balon,580688,24
+Balon,719535,29
+Balon,721685,29
+Balon,725126,29
+Balon,769113,30
+Balon,777321,30
+Balon,1127419,43
+Balon,1172233,45
+Balon,1176160,45
+Balon,1242777,47
+Balon,1245685,47
+Balon,1489786,57
+Balon,1490523,57
+Balon,1946339,74
+lord delle isole di Ferro,1945556,74
+lord delle isole di Ferro,1945857,74
+re del sale e della roccia,1945884,74
+Figlio del vento di mare,1945912,74
+lord possessore di Pyke,1945938,74

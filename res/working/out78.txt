@@ -1,0 +1,13 @@
+Aerys Targaryen,101592,4
+Aerys Targaryen,157952,6
+Aerys Targaryen,268353,12
+Aerys Targaryen,277067,12
+Aerys Targaryen,279419,12
+Aerys Targaryen,356204,15
+Aerys Targaryen,358430,15
+Aerys Targaryen,473399,20
+Aerys Targaryen,490747,20
+Aerys Targaryen,493888,20
+Aerys Targaryen,615245,25
+Aerys Targaryen,939360,35
+Aerys Targaryen,961720,36

@@ -1,0 +1,11 @@
+Arys Oakheart,1129550,43
+Arys Oakheart,1316575,51
+Arys Oakheart,1325672,51
+Arys Oakheart,1491228,57
+Arys Oakheart,1932527,74
+Arys,1129550,43
+Arys,1316575,51
+Arys,1325672,51
+Arys,1491228,57
+Arys,1784030,67
+Arys,1932527,74

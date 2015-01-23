@@ -1,0 +1,11 @@
+Mace Tyrell,651927,26
+Mace Tyrell,727071,29
+Mace Tyrell,761470,30
+Mace Tyrell,1492739,57
+lord di Alto Giardino,651940,26
+lord di Alto Giardino,1941937,74
+protettore del Sud,651964,26
+protettore del Sud,727110,29
+protettore del Sud,1941960,74
+difen­sore delle Terre Basse,1941980,74
+gran maresciallo dell'Altopiano,1942011,74

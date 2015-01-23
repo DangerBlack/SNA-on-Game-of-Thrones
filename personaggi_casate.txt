@@ -1,0 +1,105 @@
+Robert Baratheon,Baratheon
+Cersei,Lannister
+Joffrey,Baratheon
+Myrcella,Baratheon
+Tommen,Baratheon
+Stannis,Baratheon
+Selyse,u
+Shireen,u
+Renly,Baratheon
+Pycelle,u
+Petyr Baelish,Baelish
+Barristan Selmy,u
+Varys,u
+Ilyn Payne,Payne
+Sandor Clegane,Clegane
+Janos Slynt,Slynt
+Jalabhar Xho
+Ragazzo di luna,Baratheon
+Lancel,Lannister
+Jaime Lannister,Lannister
+Boros Blount,Blount
+Meryn Trant,Trant
+Arys Oakheart,Oakheart
+Preston Greenfield,Greenfield
+Mandon Moore,Moore
+Eddard Stark,Stark
+Catelyn,Tully
+Robb,Stark
+Sansa,Stark
+Arya,Stark
+Bran,Stark
+Rickon,Stark
+Jon Snow,Stark
+Theon Greyjoy,Greyjoy
+Lyanna,Stark
+Maestro Luwin,u
+vecchia Nan,u
+Hodor,u
+Helman Tallhart,Tallhart
+Rickard Karstark,Karstark
+Roose Bolton,Bolton
+Jon Umber,Umber
+Wyman Manderly,Manderly
+Tywin Lannister,Lannister
+Tyrion,Lannister
+Kevan,Lannister
+Gregor Clegane,Lannister
+Vargo Hoat,Lannister
+Jon Arryn,Arryn
+Lysa Tully,Tully
+Robert Arryn,Arryn
+Maestro Colemon,Arryn
+Ser Vardis Egen,Arryn
+Bryden Tully,Tully
+Mya Stone,Arryn
+Hoster Tully,Tully
+Mace Tyrell,Tyrell
+Lady Alerie,Tyrell
+Willas,Tyrell
+Garlan,Tyrell
+Loras,Tyrell
+Margaery,Tyrell
+Olenna,Tyrell
+Balon Greyjoy,Greyjoy
+Alannys,Greyjoy
+Asha,Greyjoy
+Euron,Greyjoy
+Vìctarion,Greyjoy
+Aeron,Greyjoy
+Doran Nymerios Martell,Martell
+Mellario,Martell
+Arianne,Martell
+Quentyn,Martell
+Trystane,Martell
+Elia,Martell
+Oberyn,Martell
+Areo Hotah,Martell
+Maestro Caleotte,Martell
+Aerys Targaryen,Targaryen
+Rhaella,Targaryen
+Rhaegar,Targaryen
+Rhaenys,Targaryen
+Aegon,Targaryen
+Viserys,Targaryen
+Daenerys,Targaryen
+Khal Drogo,Khal
+Illyrio Mopatis,Targaryen
+Pono,Khal
+Jhaqo,Khal
+Jorah Mormont,Mormont
+Irri,Targaryen
+Davos Seaworth,Baratheon
+Rodrick Cassel,Stark
+Jeor Mormont,Nightwatch
+Benjen Stark,Nightwatch
+Maestro Aemon,Nightwatch
+Samwell Tarly,Nightwatch
+Ser Alliser Thorne,Nightwatch
+Yoren,Nightwatch
+Donal Noye,Nightwatch
+Cotter Pyke,Nightwatch
+Quorin il Monco,Nightwatch
+Mance Ryder,Bruts
+Osha,Bruts
+Lord Frey,Frey

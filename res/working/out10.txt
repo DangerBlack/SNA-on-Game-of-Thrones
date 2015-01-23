@@ -1,0 +1,258 @@
+Petyr Baelish,404354,18
+Petyr Baelish,477829,20
+Petyr Baelish,488968,20
+Petyr Baelish,492513,20
+Petyr Baelish,624095,25
+Petyr Baelish,625077,25
+Petyr Baelish,626731,25
+Petyr Baelish,729696,29
+Petyr Baelish,812470,31
+Petyr Baelish,812822,31
+Petyr Baelish,813606,31
+Petyr Baelish,895470,34
+Petyr Baelish,1074616,40
+Petyr Baelish,1138548,43
+Petyr Baelish,1174134,45
+Petyr Baelish,1317950,51
+Petyr Baelish,1789525,67
+Petyr Baelish,1845000,69
+Petyr Baelish,1883928,71
+Petyr Baelish,1893991,71
+Petyr Baelish,1931733,74
+Petyr,404354,18
+Petyr,404871,18
+Petyr,404953,18
+Petyr,405290,18
+Petyr,415199,18
+Petyr,417839,18
+Petyr,418075,18
+Petyr,420080,18
+Petyr,425946,18
+Petyr,426410,18
+Petyr,477829,20
+Petyr,481982,20
+Petyr,488726,20
+Petyr,488968,20
+Petyr,492246,20
+Petyr,492513,20
+Petyr,624095,25
+Petyr,624671,25
+Petyr,625077,25
+Petyr,626731,25
+Petyr,628673,25
+Petyr,664336,27
+Petyr,729696,29
+Petyr,812470,31
+Petyr,812822,31
+Petyr,813606,31
+Petyr,895470,34
+Petyr,931003,35
+Petyr,1073059,40
+Petyr,1073208,40
+Petyr,1074028,40
+Petyr,1074304,40
+Petyr,1074616,40
+Petyr,1075073,40
+Petyr,1075380,40
+Petyr,1138548,43
+Petyr,1171698,45
+Petyr,1174134,45
+Petyr,1246318,47
+Petyr,1317950,51
+Petyr,1319941,51
+Petyr,1320134,51
+Petyr,1789525,67
+Petyr,1845000,69
+Petyr,1883928,71
+Petyr,1893991,71
+Petyr,1894145,71
+Petyr,1894461,71
+Petyr,1931733,74
+Lord Baelish,417891,18
+Lord Baelish,480287,20
+Lord Baelish,487236,20
+Lord Baelish,491326,20
+Lord Baelish,664239,27
+Lord Baelish,877489,33
+Lord Baelish,934102,35
+Lord Baelish,1150834,44
+Lord Baelish,1241289,47
+Lord Baelish,1243956,47
+Lord Baelish,1321128,51
+Ditocorto,199878,8
+Ditocorto,403826,18
+Ditocorto,404088,18
+Ditocorto,404407,18
+Ditocorto,405542,18
+Ditocorto,415395,18
+Ditocorto,415790,18
+Ditocorto,419213,18
+Ditocorto,420373,18
+Ditocorto,420636,18
+Ditocorto,421151,18
+Ditocorto,422807,18
+Ditocorto,423264,18
+Ditocorto,424025,18
+Ditocorto,425503,18
+Ditocorto,425677,18
+Ditocorto,426066,18
+Ditocorto,426465,18
+Ditocorto,427339,18
+Ditocorto,465587,20
+Ditocorto,466258,20
+Ditocorto,466766,20
+Ditocorto,467249,20
+Ditocorto,467598,20
+Ditocorto,471101,20
+Ditocorto,471787,20
+Ditocorto,472105,20
+Ditocorto,472406,20
+Ditocorto,472502,20
+Ditocorto,473631,20
+Ditocorto,476405,20
+Ditocorto,476498,20
+Ditocorto,477040,20
+Ditocorto,477202,20
+Ditocorto,477309,20
+Ditocorto,477467,20
+Ditocorto,477712,20
+Ditocorto,478116,20
+Ditocorto,478601,20
+Ditocorto,478963,20
+Ditocorto,479397,20
+Ditocorto,479883,20
+Ditocorto,480118,20
+Ditocorto,480892,20
+Ditocorto,480961,20
+Ditocorto,481530,20
+Ditocorto,481809,20
+Ditocorto,482552,20
+Ditocorto,483928,20
+Ditocorto,485049,20
+Ditocorto,486438,20
+Ditocorto,486850,20
+Ditocorto,488217,20
+Ditocorto,488896,20
+Ditocorto,489844,20
+Ditocorto,491240,20
+Ditocorto,491799,20
+Ditocorto,491988,20
+Ditocorto,623849,25
+Ditocorto,624426,25
+Ditocorto,624959,25
+Ditocorto,625223,25
+Ditocorto,625793,25
+Ditocorto,626232,25
+Ditocorto,626412,25
+Ditocorto,626986,25
+Ditocorto,627885,25
+Ditocorto,628300,25
+Ditocorto,628817,25
+Ditocorto,664311,27
+Ditocorto,665709,27
+Ditocorto,666727,27
+Ditocorto,670598,27
+Ditocorto,692016,28
+Ditocorto,764381,30
+Ditocorto,764852,30
+Ditocorto,765924,30
+Ditocorto,766889,30
+Ditocorto,776430,30
+Ditocorto,776637,30
+Ditocorto,781497,30
+Ditocorto,781800,30
+Ditocorto,791195,30
+Ditocorto,791212,30
+Ditocorto,812962,31
+Ditocorto,814002,31
+Ditocorto,814046,31
+Ditocorto,814605,31
+Ditocorto,830723,31
+Ditocorto,848109,32
+Ditocorto,848344,32
+Ditocorto,867620,33
+Ditocorto,868020,33
+Ditocorto,871471,33
+Ditocorto,877729,33
+Ditocorto,879092,33
+Ditocorto,879499,33
+Ditocorto,880263,33
+Ditocorto,881032,33
+Ditocorto,893901,34
+Ditocorto,928304,35
+Ditocorto,929230,35
+Ditocorto,929985,35
+Ditocorto,930341,35
+Ditocorto,930623,35
+Ditocorto,934242,35
+Ditocorto,935034,35
+Ditocorto,936240,35
+Ditocorto,937964,35
+Ditocorto,938399,35
+Ditocorto,939141,35
+Ditocorto,939441,35
+Ditocorto,939586,35
+Ditocorto,939830,35
+Ditocorto,943515,35
+Ditocorto,1045035,39
+Ditocorto,1073065,40
+Ditocorto,1074148,40
+Ditocorto,1075156,40
+Ditocorto,1075506,40
+Ditocorto,1127157,43
+Ditocorto,1134827,43
+Ditocorto,1139525,43
+Ditocorto,1140497,43
+Ditocorto,1144617,43
+Ditocorto,1147162,43
+Ditocorto,1170566,45
+Ditocorto,1171167,45
+Ditocorto,1172591,45
+Ditocorto,1173254,45
+Ditocorto,1173703,45
+Ditocorto,1173991,45
+Ditocorto,1174005,45
+Ditocorto,1174354,45
+Ditocorto,1224072,47
+Ditocorto,1226739,47
+Ditocorto,1235763,47
+Ditocorto,1239697,47
+Ditocorto,1239750,47
+Ditocorto,1240045,47
+Ditocorto,1240582,47
+Ditocorto,1240965,47
+Ditocorto,1241721,47
+Ditocorto,1242899,47
+Ditocorto,1243805,47
+Ditocorto,1244442,47
+Ditocorto,1245525,47
+Ditocorto,1246430,47
+Ditocorto,1246484,47
+Ditocorto,1247203,47
+Ditocorto,1247654,47
+Ditocorto,1270489,49
+Ditocorto,1273187,49
+Ditocorto,1273734,49
+Ditocorto,1274848,49
+Ditocorto,1276269,49
+Ditocorto,1276788,49
+Ditocorto,1280390,49
+Ditocorto,1320236,51
+Ditocorto,1321620,51
+Ditocorto,1321960,51
+Ditocorto,1498962,57
+Ditocorto,1500524,57
+Ditocorto,1502932,57
+Ditocorto,1506887,57
+Ditocorto,1510478,58
+Ditocorto,1513951,58
+Ditocorto,1525045,58
+Ditocorto,1528419,58
+Ditocorto,1528447,58
+Ditocorto,1528594,58
+Ditocorto,1931755,74
+maestro del conio,419664,18
+maestro del conio,473572,20
+maestro del conio,1174509,45
+maestro del conio,1522038,58
+maestro del conio,1931767,74

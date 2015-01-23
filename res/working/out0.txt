@@ -1,0 +1,548 @@
+Robert Baratheon,56544,2
+Robert Baratheon,93136,4
+Robert Baratheon,98346,4
+Robert Baratheon,104197,4
+Robert Baratheon,119600,5
+Robert Baratheon,264794,12
+Robert Baratheon,268382,12
+Robert Baratheon,270456,12
+Robert Baratheon,277883,12
+Robert Baratheon,293848,13
+Robert Baratheon,339939,15
+Robert Baratheon,375722,16
+Robert Baratheon,377227,16
+Robert Baratheon,380832,16
+Robert Baratheon,465887,20
+Robert Baratheon,580549,24
+Robert Baratheon,751367,30
+Robert Baratheon,753086,30
+Robert Baratheon,757227,30
+Robert Baratheon,758032,30
+Robert Baratheon,762780,30
+Robert Baratheon,767814,30
+Robert Baratheon,782596,30
+Robert Baratheon,787150,30
+Robert Baratheon,791993,30
+Robert Baratheon,903939,34
+Robert Baratheon,953347,36
+Robert Baratheon,954040,36
+Robert Baratheon,1143543,43
+Robert Baratheon,1237526,47
+Robert Baratheon,1352506,52
+Robert Baratheon,1355150,52
+Robert Baratheon,1429760,54
+Robert Baratheon,1479013,56
+Robert Baratheon,1951533,74
+Robert Baratheon,1951928,74
+Robert,24457,0
+Robert,30897,1
+Robert,35781,1
+Robert,56544,2
+Robert,57194,2
+Robert,58932,2
+Robert,60025,2
+Robert,60603,2
+Robert,61287,2
+Robert,93136,4
+Robert,93775,4
+Robert,94041,4
+Robert,94330,4
+Robert,94709,4
+Robert,94972,4
+Robert,95168,4
+Robert,95480,4
+Robert,95881,4
+Robert,96171,4
+Robert,96570,4
+Robert,96903,4
+Robert,97776,4
+Robert,98346,4
+Robert,99374,4
+Robert,101115,4
+Robert,101943,4
+Robert,102026,4
+Robert,103798,4
+Robert,104063,4
+Robert,104197,4
+Robert,104725,4
+Robert,105062,4
+Robert,105354,4
+Robert,105638,4
+Robert,105819,4
+Robert,106335,4
+Robert,107666,4
+Robert,108343,4
+Robert,110011,4
+Robert,110206,4
+Robert,111001,4
+Robert,111397,4
+Robert,112673,4
+Robert,112966,4
+Robert,113385,4
+Robert,113713,4
+Robert,114313,4
+Robert,114729,4
+Robert,115621,4
+Robert,119600,5
+Robert,141482,6
+Robert,141776,6
+Robert,142429,6
+Robert,150836,6
+Robert,151821,6
+Robert,153112,6
+Robert,155299,6
+Robert,160578,6
+Robert,184898,8
+Robert,199276,8
+Robert,199351,8
+Robert,199592,8
+Robert,201589,8
+Robert,202862,8
+Robert,203180,8
+Robert,203237,8
+Robert,215772,9
+Robert,221279,9
+Robert,221349,9
+Robert,262959,12
+Robert,263857,12
+Robert,264350,12
+Robert,264794,12
+Robert,265861,12
+Robert,266711,12
+Robert,267181,12
+Robert,267655,12
+Robert,267826,12
+Robert,268177,12
+Robert,268382,12
+Robert,269488,12
+Robert,270012,12
+Robert,270101,12
+Robert,270258,12
+Robert,270456,12
+Robert,271927,12
+Robert,272589,12
+Robert,273429,12
+Robert,275007,12
+Robert,275061,12
+Robert,275425,12
+Robert,275568,12
+Robert,275986,12
+Robert,276746,12
+Robert,277883,12
+Robert,278703,12
+Robert,279873,12
+Robert,280071,12
+Robert,280575,12
+Robert,280793,12
+Robert,281601,12
+Robert,281816,12
+Robert,281902,12
+Robert,282610,12
+Robert,283268,12
+Robert,284462,12
+Robert,293848,13
+Robert,293984,13
+Robert,300154,13
+Robert,339939,15
+Robert,350234,15
+Robert,356180,15
+Robert,356957,15
+Robert,363112,15
+Robert,373168,16
+Robert,373572,16
+Robert,373688,16
+Robert,375722,16
+Robert,375876,16
+Robert,377227,16
+Robert,377306,16
+Robert,378935,16
+Robert,380428,16
+Robert,380497,16
+Robert,380832,16
+Robert,381092,16
+Robert,381572,16
+Robert,381777,16
+Robert,382139,16
+Robert,382516,16
+Robert,383474,16
+Robert,383543,16
+Robert,383959,16
+Robert,384074,16
+Robert,393577,17
+Robert,403359,18
+Robert,419773,18
+Robert,422797,18
+Robert,443134,19
+Robert,453196,19
+Robert,465605,20
+Robert,465887,20
+Robert,469545,20
+Robert,470404,20
+Robert,471421,20
+Robert,472177,20
+Robert,473763,20
+Robert,475401,20
+Robert,485479,20
+Robert,485552,20
+Robert,486069,20
+Robert,486739,20
+Robert,494506,20
+Robert,506014,21
+Robert,526922,22
+Robert,580549,24
+Robert,613672,25
+Robert,615231,25
+Robert,663950,27
+Robert,665334,27
+Robert,672443,27
+Robert,673174,27
+Robert,673341,27
+Robert,675946,27
+Robert,676240,27
+Robert,716353,28
+Robert,730150,29
+Robert,736614,29
+Robert,737189,29
+Robert,739080,29
+Robert,751258,30
+Robert,751367,30
+Robert,751709,30
+Robert,751959,30
+Robert,752441,30
+Robert,753063,30
+Robert,753086,30
+Robert,753899,30
+Robert,755095,30
+Robert,755441,30
+Robert,755595,30
+Robert,756559,30
+Robert,756777,30
+Robert,757003,30
+Robert,757227,30
+Robert,757737,30
+Robert,758032,30
+Robert,758597,30
+Robert,760534,30
+Robert,760847,30
+Robert,761040,30
+Robert,762136,30
+Robert,762780,30
+Robert,763136,30
+Robert,763719,30
+Robert,767495,30
+Robert,767814,30
+Robert,775180,30
+Robert,775447,30
+Robert,775723,30
+Robert,778655,30
+Robert,782596,30
+Robert,783016,30
+Robert,783381,30
+Robert,783456,30
+Robert,783823,30
+Robert,784224,30
+Robert,787013,30
+Robert,787150,30
+Robert,788670,30
+Robert,789980,30
+Robert,790467,30
+Robert,790849,30
+Robert,791993,30
+Robert,792029,30
+Robert,832735,32
+Robert,848065,32
+Robert,858388,32
+Robert,861017,33
+Robert,861869,33
+Robert,863097,33
+Robert,864736,33
+Robert,865192,33
+Robert,865446,33
+Robert,865928,33
+Robert,866907,33
+Robert,869800,33
+Robert,869904,33
+Robert,870826,33
+Robert,870940,33
+Robert,872893,33
+Robert,873144,33
+Robert,873492,33
+Robert,874159,33
+Robert,876614,33
+Robert,876749,33
+Robert,878790,33
+Robert,884183,34
+Robert,885298,34
+Robert,887796,34
+Robert,896483,34
+Robert,897150,34
+Robert,903939,34
+Robert,924345,34
+Robert,925382,34
+Robert,926065,34
+Robert,928133,34
+Robert,931447,35
+Robert,931820,35
+Robert,931900,35
+Robert,932846,35
+Robert,934150,35
+Robert,934712,35
+Robert,935177,35
+Robert,935620,35
+Robert,935665,35
+Robert,935990,35
+Robert,940800,35
+Robert,953347,36
+Robert,954040,36
+Robert,954189,36
+Robert,1010563,38
+Robert,1011661,38
+Robert,1014633,38
+Robert,1030944,38
+Robert,1036898,39
+Robert,1039207,39
+Robert,1039533,39
+Robert,1042041,39
+Robert,1043084,39
+Robert,1043346,39
+Robert,1043848,39
+Robert,1044878,39
+Robert,1045279,39
+Robert,1045659,39
+Robert,1046051,39
+Robert,1046916,39
+Robert,1047316,39
+Robert,1047468,39
+Robert,1048111,39
+Robert,1048243,39
+Robert,1048400,39
+Robert,1049756,39
+Robert,1058767,40
+Robert,1062285,40
+Robert,1064592,40
+Robert,1066376,40
+Robert,1068844,40
+Robert,1070197,40
+Robert,1070608,40
+Robert,1070942,40
+Robert,1126258,43
+Robert,1126878,43
+Robert,1141557,43
+Robert,1142101,43
+Robert,1143543,43
+Robert,1145578,43
+Robert,1164330,44
+Robert,1168726,45
+Robert,1169396,45
+Robert,1170393,45
+Robert,1171531,45
+Robert,1171976,45
+Robert,1176006,45
+Robert,1176395,45
+Robert,1176600,45
+Robert,1176820,45
+Robert,1181795,45
+Robert,1183348,45
+Robert,1183452,45
+Robert,1183582,45
+Robert,1184141,45
+Robert,1186336,45
+Robert,1187290,45
+Robert,1217732,47
+Robert,1219399,47
+Robert,1219569,47
+Robert,1220248,47
+Robert,1221771,47
+Robert,1221950,47
+Robert,1222283,47
+Robert,1222348,47
+Robert,1222467,47
+Robert,1222833,47
+Robert,1223027,47
+Robert,1224406,47
+Robert,1224805,47
+Robert,1224942,47
+Robert,1225400,47
+Robert,1225521,47
+Robert,1225880,47
+Robert,1226211,47
+Robert,1226424,47
+Robert,1227104,47
+Robert,1227488,47
+Robert,1227911,47
+Robert,1228102,47
+Robert,1228624,47
+Robert,1229564,47
+Robert,1229755,47
+Robert,1230297,47
+Robert,1231720,47
+Robert,1232404,47
+Robert,1234327,47
+Robert,1234855,47
+Robert,1237526,47
+Robert,1237758,47
+Robert,1238218,47
+Robert,1240180,47
+Robert,1240817,47
+Robert,1241255,47
+Robert,1242469,47
+Robert,1243016,47
+Robert,1245012,47
+Robert,1269071,49
+Robert,1271727,49
+Robert,1271923,49
+Robert,1272130,49
+Robert,1273044,49
+Robert,1276356,49
+Robert,1277226,49
+Robert,1278178,49
+Robert,1315035,51
+Robert,1322506,51
+Robert,1323448,51
+Robert,1323495,51
+Robert,1352506,52
+Robert,1355150,52
+Robert,1355997,52
+Robert,1391338,53
+Robert,1392443,53
+Robert,1429760,54
+Robert,1446702,55
+Robert,1450026,55
+Robert,1460602,55
+Robert,1478947,56
+Robert,1479013,56
+Robert,1487447,57
+Robert,1489216,57
+Robert,1492881,57
+Robert,1496120,57
+Robert,1507040,57
+Robert,1509545,58
+Robert,1509740,58
+Robert,1509962,58
+Robert,1512485,58
+Robert,1512951,58
+Robert,1513312,58
+Robert,1513491,58
+Robert,1513622,58
+Robert,1513872,58
+Robert,1513939,58
+Robert,1515748,58
+Robert,1516881,58
+Robert,1519725,58
+Robert,1523302,58
+Robert,1524486,58
+Robert,1524740,58
+Robert,1526048,58
+Robert,1526824,58
+Robert,1633756,62
+Robert,1722182,65
+Robert,1722898,65
+Robert,1738111,65
+Robert,1742928,65
+Robert,1760807,66
+Robert,1760936,66
+Robert,1789985,67
+Robert,1790246,67
+Robert,1838378,69
+Robert,1888649,71
+Robert,1899563,71
+Robert,1900024,71
+Robert,1935997,74
+Robert,1938033,74
+Robert,1951533,74
+Robert,1951928,74
+Il re,23544,0
+Il re,58722,2
+Il re,92358,4
+Il re,103386,4
+Il re,110742,4
+Il re,114248,4
+Il re,115769,4
+Il re,116102,4
+Il re,215361,9
+Il re,215474,9
+Il re,231539,10
+Il re,265138,12
+Il re,266372,12
+Il re,266889,12
+Il re,272271,12
+Il re,273829,12
+Il re,274439,12
+Il re,275235,12
+Il re,277573,12
+Il re,282686,12
+Il re,352162,15
+Il re,373423,16
+Il re,381322,16
+Il re,381998,16
+Il re,382442,16
+Il re,382617,16
+Il re,383641,16
+Il re,452994,19
+Il re,473668,20
+Il re,475142,20
+Il re,479181,20
+Il re,505767,21
+Il re,613852,25
+Il re,626245,25
+Il re,666071,27
+Il re,753503,30
+Il re,753612,30
+Il re,755794,30
+Il re,760165,30
+Il re,783075,30
+Il re,789885,30
+Il re,844078,32
+Il re,863657,33
+Il re,868053,33
+Il re,872444,33
+Il re,872755,33
+Il re,873773,33
+Il re,906533,34
+Il re,953201,36
+Il re,1000651,37
+Il re,1014594,38
+Il re,1039018,39
+Il re,1046062,39
+Il re,1046404,39
+Il re,1047612,39
+Il re,1049390,39
+Il re,1050459,39
+Il re,1142247,43
+Il re,1171235,45
+Il re,1175856,45
+Il re,1185238,45
+Il re,1220177,47
+Il re,1225491,47
+Il re,1225666,47
+Il re,1226924,47
+Il re,1239996,47
+Il re,1271075,49
+Il re,1273613,49
+Il re,1314765,51
+Il re,1325139,51
+Il re,1325183,51
+Il re,1330929,51
+Il re,1352423,52
+Il re,1358611,52
+Il re,1465140,56
+Il re,1470910,56
+Il re,1506410,57
+Il re,1509889,58
+Il re,1510017,58
+Il re,1571496,60
+Il re,1605926,61
+Il re,1689498,64
+Il re,1734764,65
+Il re,1790957,67
+Il re,1791976,67
+Il re,1796416,67
+Il re,1798865,67
+Il re,1816731,68
+Il re,1907828,71
+Il re,1908106,71
+Il re,1908214,71
+Il re,1908679,71
+Il re,1908700,71
+Il re,1908721,71
+Il re,1944365,74

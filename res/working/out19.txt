@@ -1,0 +1,241 @@
+Jaime Lannister,80643,3
+Jaime Lannister,91699,4
+Jaime Lannister,121782,5
+Jaime Lannister,185140,8
+Jaime Lannister,215852,9
+Jaime Lannister,221097,9
+Jaime Lannister,222709,9
+Jaime Lannister,275534,12
+Jaime Lannister,281502,12
+Jaime Lannister,282954,12
+Jaime Lannister,283085,12
+Jaime Lannister,283619,12
+Jaime Lannister,330634,14
+Jaime Lannister,375457,16
+Jaime Lannister,426661,18
+Jaime Lannister,718108,29
+Jaime Lannister,726924,29
+Jaime Lannister,736560,29
+Jaime Lannister,737056,29
+Jaime Lannister,764406,30
+Jaime Lannister,766166,30
+Jaime Lannister,766673,30
+Jaime Lannister,767109,30
+Jaime Lannister,791367,30
+Jaime Lannister,938563,35
+Jaime Lannister,941360,35
+Jaime Lannister,1044544,39
+Jaime Lannister,1050676,39
+Jaime Lannister,1061958,40
+Jaime Lannister,1157363,44
+Jaime Lannister,1158196,44
+Jaime Lannister,1168488,45
+Jaime Lannister,1174445,45
+Jaime Lannister,1275148,49
+Jaime Lannister,1454548,55
+Jaime Lannister,1491411,57
+Jaime Lannister,1499153,57
+Jaime Lannister,1553472,59
+Jaime Lannister,1669461,63
+Jaime Lannister,1672509,63
+Jaime Lannister,1676014,63
+Jaime Lannister,1682038,63
+Jaime Lannister,1682219,63
+Jaime Lannister,1682989,63
+Jaime Lannister,1887376,71
+Jaime Lannister,1932443,74
+Jaime Lannister,1951688,74
+Jaime,80643,3
+Jaime,91699,4
+Jaime,95541,4
+Jaime,121782,5
+Jaime,122195,5
+Jaime,122694,5
+Jaime,185140,8
+Jaime,215214,9
+Jaime,215852,9
+Jaime,217450,9
+Jaime,217568,9
+Jaime,218224,9
+Jaime,218551,9
+Jaime,220055,9
+Jaime,220606,9
+Jaime,221097,9
+Jaime,221511,9
+Jaime,222197,9
+Jaime,222635,9
+Jaime,222709,9
+Jaime,275534,12
+Jaime,276069,12
+Jaime,276532,12
+Jaime,276853,12
+Jaime,277143,12
+Jaime,277380,12
+Jaime,281502,12
+Jaime,282485,12
+Jaime,282954,12
+Jaime,283085,12
+Jaime,283437,12
+Jaime,283619,12
+Jaime,299473,13
+Jaime,330634,14
+Jaime,363136,15
+Jaime,375457,16
+Jaime,426661,18
+Jaime,426919,18
+Jaime,494782,21
+Jaime,505863,21
+Jaime,506054,21
+Jaime,619160,25
+Jaime,718108,29
+Jaime,726924,29
+Jaime,732363,29
+Jaime,736560,29
+Jaime,736652,29
+Jaime,737056,29
+Jaime,764406,30
+Jaime,764548,30
+Jaime,764976,30
+Jaime,765541,30
+Jaime,766166,30
+Jaime,766360,30
+Jaime,766673,30
+Jaime,767109,30
+Jaime,791367,30
+Jaime,814795,31
+Jaime,896500,34
+Jaime,938563,35
+Jaime,939225,35
+Jaime,940132,35
+Jaime,940621,35
+Jaime,941272,35
+Jaime,941360,35
+Jaime,1010189,38
+Jaime,1014311,38
+Jaime,1015610,38
+Jaime,1015656,38
+Jaime,1021660,38
+Jaime,1033722,38
+Jaime,1036681,39
+Jaime,1044467,39
+Jaime,1044544,39
+Jaime,1044784,39
+Jaime,1046551,39
+Jaime,1047035,39
+Jaime,1050676,39
+Jaime,1061958,40
+Jaime,1063539,40
+Jaime,1110362,42
+Jaime,1116401,42
+Jaime,1117194,42
+Jaime,1117578,42
+Jaime,1119255,42
+Jaime,1119487,42
+Jaime,1157363,44
+Jaime,1158196,44
+Jaime,1168488,45
+Jaime,1174445,45
+Jaime,1180902,45
+Jaime,1181307,45
+Jaime,1182336,45
+Jaime,1183543,45
+Jaime,1186347,45
+Jaime,1187554,45
+Jaime,1238468,47
+Jaime,1240910,47
+Jaime,1245374,47
+Jaime,1275148,49
+Jaime,1275311,49
+Jaime,1454548,55
+Jaime,1454782,55
+Jaime,1456575,55
+Jaime,1460490,55
+Jaime,1463420,56
+Jaime,1475231,56
+Jaime,1475355,56
+Jaime,1476991,56
+Jaime,1477764,56
+Jaime,1485530,56
+Jaime,1491411,57
+Jaime,1499153,57
+Jaime,1515854,58
+Jaime,1525511,58
+Jaime,1539373,59
+Jaime,1553472,59
+Jaime,1622542,62
+Jaime,1625340,62
+Jaime,1641684,62
+Jaime,1644022,62
+Jaime,1669461,63
+Jaime,1671035,63
+Jaime,1672509,63
+Jaime,1676014,63
+Jaime,1677562,63
+Jaime,1682038,63
+Jaime,1682219,63
+Jaime,1682989,63
+Jaime,1685107,63
+Jaime,1797628,67
+Jaime,1826033,69
+Jaime,1828002,69
+Jaime,1828266,69
+Jaime,1828707,69
+Jaime,1829973,69
+Jaime,1834583,69
+Jaime,1835044,69
+Jaime,1836862,69
+Jaime,1836923,69
+Jaime,1837092,69
+Jaime,1841323,69
+Jaime,1841631,69
+Jaime,1846891,69
+Jaime,1887376,71
+Jaime,1932443,74
+Jaime,1935892,74
+Jaime,1936052,74
+Jaime,1951688,74
+Sterminatore di re,67780,3
+Sterminatore di re,122293,5
+Sterminatore di re,275805,12
+Sterminatore di re,330968,14
+Sterminatore di re,706672,28
+Sterminatore di re,722407,29
+Sterminatore di re,726943,29
+Sterminatore di re,736813,29
+Sterminatore di re,761634,30
+Sterminatore di re,763052,30
+Sterminatore di re,764339,30
+Sterminatore di re,765660,30
+Sterminatore di re,792265,30
+Sterminatore di re,848456,32
+Sterminatore di re,938287,35
+Sterminatore di re,940466,35
+Sterminatore di re,961682,36
+Sterminatore di re,1033808,38
+Sterminatore di re,1040028,39
+Sterminatore di re,1046278,39
+Sterminatore di re,1051982,40
+Sterminatore di re,1062144,40
+Sterminatore di re,1153777,44
+Sterminatore di re,1172489,45
+Sterminatore di re,1286790,50
+Sterminatore di re,1453131,55
+Sterminatore di re,1458081,55
+Sterminatore di re,1459137,55
+Sterminatore di re,1499269,57
+Sterminatore di re,1501440,57
+Sterminatore di re,1510541,58
+Sterminatore di re,1531821,59
+Sterminatore di re,1539019,59
+Sterminatore di re,1551421,59
+Sterminatore di re,1669561,63
+Sterminatore di re,1671300,63
+Sterminatore di re,1671772,63
+Sterminatore di re,1671929,63
+Sterminatore di re,1682121,63
+Sterminatore di re,1683292,63
+Sterminatore di re,1900714,71
+Sterminatore di re,1902203,71
+Sterminatore di re,1932467,74
+Sterminatore di re,1935909,74
+Sterminatore di re,1951708,74

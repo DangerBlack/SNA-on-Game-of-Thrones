@@ -1,0 +1,12 @@
+Helman Tallhart,493122,20
+Helman Tallhart,1444079,55
+Helman Tallhart,1448402,55
+Helman Tallhart,1543082,59
+Helman Tallhart,1561495,59
+Helman Tallhart,1934790,74
+Helman,493122,20
+Helman,1444079,55
+Helman,1448402,55
+Helman,1543082,59
+Helman,1561495,59
+Helman,1934790,74

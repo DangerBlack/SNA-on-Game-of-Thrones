@@ -1,0 +1,108 @@
+Sandor Clegane,91768,4
+Sandor Clegane,210752,9
+Sandor Clegane,214085,9
+Sandor Clegane,214971,9
+Sandor Clegane,352754,15
+Sandor Clegane,354481,15
+Sandor Clegane,360617,15
+Sandor Clegane,375438,16
+Sandor Clegane,386174,16
+Sandor Clegane,387275,16
+Sandor Clegane,722786,29
+Sandor Clegane,725795,29
+Sandor Clegane,737955,29
+Sandor Clegane,740027,29
+Sandor Clegane,741699,29
+Sandor Clegane,742314,29
+Sandor Clegane,746105,29
+Sandor Clegane,764107,30
+Sandor Clegane,764881,30
+Sandor Clegane,770004,30
+Sandor Clegane,776100,30
+Sandor Clegane,1127401,43
+Sandor Clegane,1172419,45
+Sandor Clegane,1266731,49
+Sandor Clegane,1276049,49
+Sandor Clegane,1278812,49
+Sandor Clegane,1280181,49
+Sandor Clegane,1500629,57
+Sandor Clegane,1503257,57
+Sandor Clegane,1503422,57
+Sandor Clegane,1568442,60
+Sandor Clegane,1781023,67
+Sandor Clegane,1781550,67
+Sandor Clegane,1784064,67
+Sandor Clegane,1787511,67
+Sandor Clegane,1789761,67
+Sandor Clegane,1793568,67
+Sandor Clegane,1795679,67
+Sandor Clegane,1797438,67
+Sandor Clegane,1799395,67
+Sandor Clegane,1932054,74
+Mastino,210771,9
+Mastino,210907,9
+Mastino,212372,9
+Mastino,214535,9
+Mastino,352773,15
+Mastino,353234,15
+Mastino,353721,15
+Mastino,354505,15
+Mastino,354577,15
+Mastino,359387,15
+Mastino,360636,15
+Mastino,361544,15
+Mastino,387223,16
+Mastino,532183,22
+Mastino,534365,22
+Mastino,541039,22
+Mastino,541165,22
+Mastino,720519,29
+Mastino,725198,29
+Mastino,725721,29
+Mastino,726880,29
+Mastino,732322,29
+Mastino,737865,29
+Mastino,738486,29
+Mastino,740289,29
+Mastino,740937,29
+Mastino,745485,29
+Mastino,745807,29
+Mastino,745861,29
+Mastino,746705,29
+Mastino,747051,29
+Mastino,764708,30
+Mastino,765430,30
+Mastino,765725,30
+Mastino,765966,30
+Mastino,766445,30
+Mastino,766788,30
+Mastino,767887,30
+Mastino,774640,30
+Mastino,774921,30
+Mastino,775297,30
+Mastino,775839,30
+Mastino,775917,30
+Mastino,776182,30
+Mastino,1158250,44
+Mastino,1158383,44
+Mastino,1172364,45
+Mastino,1172805,45
+Mastino,1173146,45
+Mastino,1223618,47
+Mastino,1280234,49
+Mastino,1312245,51
+Mastino,1391543,53
+Mastino,1503294,57
+Mastino,1503810,57
+Mastino,1741062,65
+Mastino,1781441,67
+Mastino,1781514,67
+Mastino,1784363,67
+Mastino,1787287,67
+Mastino,1792112,67
+Mastino,1793528,67
+Mastino,1795636,67
+Mastino,1797319,67
+Mastino,1797387,67
+Mastino,1845868,69
+Mastino,1932077,74

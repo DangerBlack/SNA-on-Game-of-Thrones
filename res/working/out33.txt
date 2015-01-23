@@ -1,0 +1,130 @@
+Theon Greyjoy,30452,1
+Theon Greyjoy,31897,1
+Theon Greyjoy,37759,1
+Theon Greyjoy,39630,1
+Theon Greyjoy,42097,1
+Theon Greyjoy,47149,1
+Theon Greyjoy,123338,5
+Theon Greyjoy,173289,7
+Theon Greyjoy,177623,7
+Theon Greyjoy,180174,7
+Theon Greyjoy,180736,7
+Theon Greyjoy,182501,8
+Theon Greyjoy,324729,14
+Theon Greyjoy,330237,14
+Theon Greyjoy,331071,14
+Theon Greyjoy,332262,14
+Theon Greyjoy,333312,14
+Theon Greyjoy,493530,20
+Theon Greyjoy,583584,24
+Theon Greyjoy,590018,24
+Theon Greyjoy,590995,24
+Theon Greyjoy,594543,24
+Theon Greyjoy,596675,24
+Theon Greyjoy,605786,24
+Theon Greyjoy,971318,37
+Theon Greyjoy,973737,37
+Theon Greyjoy,974371,37
+Theon Greyjoy,977638,37
+Theon Greyjoy,979386,37
+Theon Greyjoy,979819,37
+Theon Greyjoy,998228,37
+Theon Greyjoy,998332,37
+Theon Greyjoy,1001108,37
+Theon Greyjoy,1385672,53
+Theon Greyjoy,1405908,53
+Theon Greyjoy,1444434,55
+Theon Greyjoy,1535198,59
+Theon Greyjoy,1537065,59
+Theon Greyjoy,1537823,59
+Theon Greyjoy,1674030,63
+Theon Greyjoy,1682747,63
+Theon Greyjoy,1684732,63
+Theon Greyjoy,1857007,70
+Theon Greyjoy,1879438,71
+Theon Greyjoy,1882555,71
+Theon Greyjoy,1891557,71
+Theon Greyjoy,1897010,71
+Theon Greyjoy,1933635,74
+Theon,30452,1
+Theon,31897,1
+Theon,31912,1
+Theon,32215,1
+Theon,37759,1
+Theon,38507,1
+Theon,39630,1
+Theon,42097,1
+Theon,47149,1
+Theon,93664,4
+Theon,123338,5
+Theon,123461,5
+Theon,173289,7
+Theon,177623,7
+Theon,180174,7
+Theon,180736,7
+Theon,182501,8
+Theon,324729,14
+Theon,330237,14
+Theon,331071,14
+Theon,332262,14
+Theon,333312,14
+Theon,334250,14
+Theon,493530,20
+Theon,583584,24
+Theon,590018,24
+Theon,590995,24
+Theon,594543,24
+Theon,596675,24
+Theon,605786,24
+Theon,971318,37
+Theon,973737,37
+Theon,973861,37
+Theon,974113,37
+Theon,974371,37
+Theon,974927,37
+Theon,977638,37
+Theon,979386,37
+Theon,979819,37
+Theon,979850,37
+Theon,980239,37
+Theon,980879,37
+Theon,981996,37
+Theon,982762,37
+Theon,984555,37
+Theon,985238,37
+Theon,998228,37
+Theon,998332,37
+Theon,999113,37
+Theon,999647,37
+Theon,999699,37
+Theon,999835,37
+Theon,1001108,37
+Theon,1385672,53
+Theon,1390653,53
+Theon,1394538,53
+Theon,1405908,53
+Theon,1444434,55
+Theon,1447558,55
+Theon,1448545,55
+Theon,1535198,59
+Theon,1535709,59
+Theon,1536012,59
+Theon,1536455,59
+Theon,1537065,59
+Theon,1537211,59
+Theon,1537823,59
+Theon,1674030,63
+Theon,1681959,63
+Theon,1682747,63
+Theon,1684732,63
+Theon,1685307,63
+Theon,1759429,66
+Theon,1857007,70
+Theon,1857075,70
+Theon,1879438,71
+Theon,1882555,71
+Theon,1891557,71
+Theon,1892306,71
+Theon,1897010,71
+Theon,1933635,74
+Theon,1946232,74

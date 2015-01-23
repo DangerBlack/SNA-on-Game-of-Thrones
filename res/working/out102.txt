@@ -1,0 +1,5 @@
+Mance Ryder,1001460,37
+Mance Ryder,1087655,41
+Mance Ryder,1340266,52
+Mance Ryder,1399992,53
+Mance Ryder,1876051,70

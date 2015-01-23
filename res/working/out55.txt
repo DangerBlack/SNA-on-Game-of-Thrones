@@ -1,0 +1,44 @@
+Hoster Tully,57019,2
+Hoster Tully,693094,28
+Hoster Tully,698850,28
+Hoster Tully,702261,28
+Hoster Tully,702994,28
+Hoster Tully,714588,28
+Hoster Tully,1075604,40
+Hoster Tully,1332621,51
+Hoster Tully,1492894,57
+Hoster Tully,1547036,59
+Hoster Tully,1885618,71
+Hoster,57019,2
+Hoster,693094,28
+Hoster,698850,28
+Hoster,702261,28
+Hoster,702994,28
+Hoster,714588,28
+Hoster,894176,34
+Hoster,895089,34
+Hoster,895343,34
+Hoster,1052935,40
+Hoster,1075604,40
+Hoster,1140902,43
+Hoster,1141035,43
+Hoster,1332621,51
+Hoster,1492894,57
+Hoster,1547036,59
+Hoster,1556450,59
+Hoster,1883541,71
+Hoster,1885189,71
+Hoster,1885618,71
+Hoster,1886060,71
+Hoster,1886433,71
+Hoster,1887293,71
+Hoster,1887471,71
+Hoster,1888110,71
+Hoster,1888664,71
+Hoster,1889136,71
+Hoster,1889790,71
+Hoster,1891332,71
+Hoster,1891721,71
+Hoster,1895443,71
+Hoster,1895918,71
+Hoster,1940332,74

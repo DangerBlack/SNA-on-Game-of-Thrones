@@ -1,0 +1,105 @@
+Robert Baratheon,Robert,Il re
+Cersei,Regina,regina
+Joffrey,Joff
+Myrcella
+Tommen
+Stannis,signore della Roccia del Drago
+Selyse
+Shireen
+Renly,lord di Capo Tempesta
+Pycelle
+Petyr Baelish,Petyr,Lord Baelish,Ditocorto,maestro del conio
+Barristan Selmy,Barristan,Selmy
+Varys,eunuco,Ragno tessitore,Ragno
+Ilyn Payne,Payne,Giustizia del re
+Sandor Clegane,Mastino
+Janos Slynt
+Jalabhar Xho
+Ragazzo di luna
+Lancel
+Jaime Lannister,Jaime,Sterminatore di re
+Boros Blount,Boros
+Meryn Trant,Meryn
+Arys Oakheart,Arys
+Preston Greenfield,Preston
+Mandon Moore
+Eddard Stark,Eddard,Ned,lord di Grande Inverno,protettore del Nord,lord Stark
+Catelyn,Cat,lady Stark
+Robb
+Sansa
+Arya
+Bran
+Rickon
+Jon Snow,Jon,Il Bastardo di Grande Inverno
+Theon Greyjoy,Theon,Reek
+Lyanna
+Maestro Luwin
+vecchia Nan
+Hodor
+Helman Tallhart,Helman
+Rickard Karstark
+Roose Bolton,Lord di Forte Terrore
+Jon Umber,Grande Jon
+Wyman Manderly
+Tywin Lannister,Tywin,lord di Castel Granito,protettore dell'Ovest,difensore di Lannisport
+Tyrion,Folletto
+Kevan
+Gregor Clegane,La Montagna che cavalca,La Montagna,Gregor
+Vargo Hoat
+Jon Arryn,lord del Nido dell'Aquila,difensore della valle,protettore dell'Est,Primo Cavaliere del re
+Lysa Tully,Lysa,lady Arryn
+Robert Arryn
+Maestro Colemon
+Ser Vardis Egen
+Bryden Tully,Bryden,Pesce nero
+Mya Stone,Mya
+Hoster Tully,Hoster
+Mace Tyrell,lord di Alto Giardino,protettore del Sud,difen­sore delle Terre Basse,gran maresciallo dell'Altopiano
+Lady Alerie
+Willas
+Garlan,Il Galante
+Loras,Il Cavaliere dei fiori
+Margaery
+Olenna,Regina di Spine
+Balon Greyjoy,Balon,lord delle isole di Ferro,re del sale e della roccia,Figlio del vento di mare,lord possessore di Pyke
+Alannys
+Asha
+Euron,Occhio di corvo
+Vìctarion,Victarion
+Aeron,Capelli umidi,Capelli bagnati
+Doran Nymerios Martell,Doran Martell,Doran,lord di Lancia del Sole,principe di Dorne
+Mellario
+Arianne
+Quentyn
+Trystane
+Elia
+Oberyn,Vipera rossa
+Areo Hotah
+Maestro Caleotte
+Aerys Targaryen
+Rhaella
+Rhaegar
+Rhaenys
+Aegon
+Viserys,re Mendicante
+Daenerys,Nata dalla tempesta,luna della mia vita,khaleesi
+Khal Drogo,Khal,Drogo,sole-e-stelle
+Illyrio Mopatis,Magistro Illyrio,Illyrio
+Pono
+Jhaqo
+Jorah Mormont,Jorah
+Irri
+Davos Seaworth,Davos,Cavaliere delle cipolle
+Rodrick Cassel
+Jeor Mormont,Lord Comandante,Lord Mormont,Vecchio orso
+Benjen Stark
+Maestro Aemon,Aemon
+Samwell Tarly,Sam,messer Porcello,porcello
+Ser Alliser Thorne
+Yoren
+Donal Noye
+Cotter Pyke
+Quorin il Monco
+Mance Ryder,Il re oltre la barriera,Il Re oltre la barriera
+Osha
+Lord Frey,Walder Frey,signore del Guado,lord del Guado

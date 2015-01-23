@@ -1,0 +1,10 @@
+Robert Baratheon,Cersei
+Cersei,Robert Baratheon
+Stannis,Selyse
+Selyse,Stannis
+Eddard Stark,Catelyn	
+Catelyn,Eddard Stark
+Jon Arryn,Lysa Tully
+Lysa Tully,Jon Arryn
+Daenerys,Khal Drogo
+Khal Drogo,Daenerys
