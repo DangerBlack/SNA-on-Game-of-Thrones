@@ -1,0 +1,71 @@
+\documentclass[a4paper]{article}
+
+\usepackage[italian]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage[colorinlistoftodos]{todonotes}
+\usepackage{fullpage}
+
+\title{Analisi delle reti sociali applicata al libro\newline Il trono di Spade}
+
+\author{Daniele Baschieri}
+
+\date{\today}
+
+\begin{document}
+\maketitle
+
+\begin{abstract}
+Your abstract.
+\end{abstract}
+
+\section{Introduzione}
+
+In questa relazione si è applicato la metodologia di analisi delle reti sociali al volume il trono di spade di George R. R. Martin. L'intento era di valutare la versatilità di questo approccio alle più disparate condizioni di utilizzo e estrapolare dal testo elementi realtivi al ruolo e agli eventi grazie a questa tecnica.\\
+L'analisi delle reti sociali è una moderna metodologia di analisi delle relazioni proposta da Jacob Levi Moreno fondatore della sociometria. 
+Con questa modalità di ricerca si supera il precendente apporccio basato su casi ovvero sulle proprietà di ciascun elemento, e si passa ad un approccio connessionista o strutturalista, ovvero basato su collegamenti con altri elmenti.\\
+L'approccio strutturalista permette di catturare il ruolo che un certo elemento ricopre all'interno della rete in funzione di come si relaziona agli altri elementi della rete.\\
+L'approccio connessionista invece è basato su flussi e relazioni, questi possono virtualmente rappresentare il guadagno relativo a ciascuna connessione permettendo pratiche misure di potere.\\
+Vi è una difficoltà intrinseca nell'analizzare un volume di più di mille pagine, in primo luogo la dimensione del volume che rende obbligatoria una analisi automatica, in secondo luogo l'enrome numero dei personaggi più di un centinaio tra i personaggi rilevanti, infine trovare una misura corretta per rappresentare la rete nel modo più obiettivo possibile, senza quindi sprocare il dato con troppe considerazioni personali.
+
+\section{Obiettivi}
+
+Poichè è possibile piegare la rete a mostrare un infinità di informazioni interessanti si è scelto di limitare la ricerca a due domande fondamentali:
+
+\begin{itemize}
+\item La divisione in casate riesce a spiegare la rete sociale tra i personaggi?
+\item La relazione matrimoniale dei personaggi riesce a spiegarne la rete sociale?
+\end{itemize}
+Da queste due domande principali si diramano alcune considerazioni, secondarie ma altrettanto importanti:
+
+\begin{itemize}
+\item Quali tensionamenti emergono dalle reti sociali così definite?
+\item Chi sono i personaggi chiave del romanzo?
+\item Analizzando lo sviluppo della vicenda è possibile prevedere i personaggi che verranno uccisi da una congiura? E il loro assassino?
+\end{itemize}
+
+\section{Metodologia}
+
+Per poter lavorare su un volume di quasi 1000 pagine contenente 314886 parole è stato necessario definire con estrema cura il metodo di indagine.\\
+Si è quindi pensato di definire i personaggi principali del volume tralasciando solo le comparse, definendo quindi un elenco con i 105 personaggi riportati nelle appendici di fine libro. Per ciascuno di questi personaggi è stato individuato il nome, il titolo e qualsiasi riferimento nel testo che li definisca in modo univoco.\\
+\newtheorem{xxx}{Esempio}
+Ad esempio Eddard Stark viene definito come:
+\begin{xxx}
+Eddard Stark, Eddard, Ned, lord di Grande Inverno, protettore del Nord, lord Stark
+\end{xxx}
+
+Definiti gli attori di questa rete è stato necessario definire i legami tra questi attori. Si è perciò deciso di definire un nuovo tipo di eventi ovvero i capitoli, gli attori si incontrano in questi eventi. Il volume è composto da 73 capitoli nei quali si alternano le vicende di questi personaggi, ciascun capitolo è strutturato dal punto di vista di uno specifico personaggio, perciò alcune considerazioni dovranno essere fatte al termine del lavoro.\\
+Nel volume troviamo i punti di vista di otto personaggi ovvero: Bran, Catelyn, Daenerys, Eddard, Jon, Arya, Tyrion, Sansa.\\
+Si è perciò andato a contare all'interno di ciascuno dei 73 capitoli quante volte ciascuno dei 105 personaggi veniva citato. Non è possibile perciò verificare se il personaggio sia davvero presente in quel capitolo o sia magari citato in un dialogo da uno degli altri personaggi presenti, quello che però traspare è che quel personaggio anche solo per il fatto di venire citato ha una influenza in quello specifico capitolo.\\
+Si è ottenuta una rete bimodale personaggi/capitoli ovvero attori/eventi, grazie a questa rete è stato possibile affiliarla in una rete monomodale personaggi/personaggi ovvero in una rete in cui si può valutare le interazioni che ha ciascun personaggio con ogni altro personaggi, ipotizzando che in ciascun capitolo ogni personaggio si relazioni con ogni altro personaggio citato in quel medesimo capitolo. A giustificare questo assunto bisogna tenere presente che l'unità fondamentale è il capitolo e che ciascun capitolo copre uno spettro di 13 pagine in media ed essendo i capitoli centrati su un personaggio il ritenere che ogni personaggi in un capitolo tessa le sue relazioni con ogni altro personaggio del capitolo è del tutto ragionevole.\\ 
+Più un personaggio appare all'interno di un capitolo più è forte il legame relazionale che tesse con gli altri attori nel medesimo capitolo.
+
+
+\section{Strumenti}
+
+\section{Analisi}
+
+\section{Conclusioni}
+
+\end{document}
