@@ -85,6 +85,7 @@ A questo grafo si è applicato un filtro rimuovendo tutti i legami di intensità
 \centering
 \includegraphics[width=.9\textwidth]{picture/029.png}
 \caption{Il Grafo delle reti sociali}
+\label{fig:grafo-partito}
 \end{figure}
 La rete presente in figura uno è stata colorata applicando il metodo di partizione della rete per fazioni, richiedendo al programma di cercare 20 fazioni all'interno della rete così filtrata.\\
 \subsection{Casate}
@@ -100,13 +101,52 @@ Si è quindi scelto di analizzare numericamente quanto questa suddivisione riesc
   \item \emph{Guardiani della Notte:} Jon Snow, Samwell Tarly, Meastro Aemon, Donal Noye, Jeor Mormont.
 \end{itemize}
 
-Fatta questa premessa possiamo verificare la corretta disposizione di 18 personaggi, la collocazione sbagliata di 18 personaggi e la mancata colorazione di 19 personaggi. Essendo che alcuni personaggi colorati in modo errato risultano mancanti occorre rimuoverli dall'insieme dei perosnaggi sbagliati. Peranto risulta che vi sono 11 personaggi colorati in modo errato e 19 personaggi che dovevano essere colorati di un colore e che lo sono stati di un altro da cui possiamo calcolare:
+Fatta questa premessa possiamo verificare la corretta disposizione di 18 personaggi, la collocazione sbagliata di 18 personaggi e la mancata colorazione di 19 personaggi. (Figura \ref{fig:grafo-partito}) Essendo che alcuni personaggi colorati in modo errato risultano mancanti occorre rimuoverli dall'insieme dei perosnaggi sbagliati. Peranto risulta che vi sono 11 personaggi colorati in modo errato e 19 personaggi che dovevano essere colorati di un colore e che lo sono stati di un altro da cui possiamo calcolare:
 
-\begin{displaymath}
+\begin{equation}
 	p=1-\frac{19+11}{56}=0.46    
-\end{displaymath}
+\end{equation}
 
-Possiamo quindi concludere che la probabilità di individuare un personaggio corretto grazie a questa partizione del grafo è del 46\%, il che è un risultato piuttosto soddisfacente considerando che dividendo il gruppo casualmente in 7 fazioni la probabilità di colorare un elemento correttamente è del 14\%.
+Possiamo quindi concludere che la probabilità di individuare un personaggio corretto grazie a questa partizione del grafo è del 46\%, il che è un risultato piuttosto soddisfacente considerando che dividendo il gruppo casualmente in 7 fazioni la probabilità di colorare un elemento correttamente è del 14\%.\\
+
+Alla luce di questa partizione bisogna valutare le incongruenze che emergono, sono giustificate?
+
+Vi è una forte confusione tra gli Stark e i Lannister e i Baratheon, questo per via del fatto che questi personaggi si trasferiscono tutti ad Approdo del Re nel corso del romanzo e vivono una fitta trama ricca di alleanze e inimicizie sotterfugi e tradimenti.
+
+Emerge che Jon Arryn è legato a Lysa Tully e ciò è ragionevole visto il loro legame matrimoniale, si può dire la medesima cosa di Kahal Drogo marito di Daenerys Targaryen.
+
+Stannis e Renly Baratheon invece risultano ben divisi e ciò sarà ulteriormente evidente nei prossimi romanzi dove Stannis finrà per uccidere suo fratello Renly.
+
+I guardiani della notte risultano un insieme non omogeneo giò è dovuto in parte anche al fatto che Benjen Stark sarà dato per disperso nelle prime pagine del libro e che Donal Noye ha un forte legame con Jon Snow.
+
+Ultimo ma non meno importanza il legame tra Tyrion e il resto dei suoi parenti Tywin e Kevan è di evidente distacco, sappiamo che ha un legame con Catelyn Tully poichè ella lo prende come prigioniero e lo porta a Nido dell'Aquila da Lysa Tully.
+
+\subsection{Relazioni Matrimoniali}
+
+Si sono prese in considerazione le seguenti coppie:
+
+\begin{itemize}
+\item Khal Drogo - Daenerys Targaryen
+\item Robert Baratheon - Cersei Lannister
+\item Eddard Stark - Catelyn Tully
+\item Jon Arryn - Lysa Tully
+\end{itemize}
+
+Ciascuno di questi legami matrimoniali è presente nella rete dicotomizzata a 680.\\
+Per poter cogliere eventuali difficotà matrimoniali abbiamo dicotomizzato la rete a 1500 e ci siamo accorti che il legame tra Jon Arryn e Lysa Tully si spezza come in Figura \ref{fig:grafo-partito-1500}.\\
+\begin{figure}[h]
+\centering
+\includegraphics[width=.9\textwidth]{picture/030.png}
+\caption{La componente principale del grafo dicotomizzato a 1500}
+\label{fig:grafo-partito-1500}
+\end{figure}
+Per poter rompere altri legami matrimoniali bisogna spingersi a 5323 dove si spezza il legame tra Robert Baratheon e Cersei Lannister. Questo a prima vista può nascondere un errore di approccio, infatti sono così pochi i legami tra personaggi non "protagonisti" che lo spezzarsi di questo legame può apparire come una dipendnete di questo aspetto, quello che però non sarebbe spiegato è per quale motivo il rapporto tra Cersei e Joffrey suo figlio rimanga mentre quello tra marito e moglie si spezzi. Soltanto nella lettura del romanzo possiamo trovare risposta a questa evidenza empirica.
+
+
+
+
+
+
 \section{Conclusioni}
 
 \begin{thebibliography}{9}
