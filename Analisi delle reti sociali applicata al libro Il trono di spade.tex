@@ -7,7 +7,7 @@
 \usepackage[colorinlistoftodos]{todonotes}
 \usepackage{fullpage}
 
-\title{Analisi delle reti sociali applicata al libro\newline Il trono di Spade}
+\title{Analisi delle reti sociali applicata al romanzo Il trono di Spade}
 
 \author{Daniele Baschieri}
 
@@ -58,14 +58,60 @@ Eddard Stark, Eddard, Ned, lord di Grande Inverno, protettore del Nord, lord Sta
 Definiti gli attori di questa rete è stato necessario definire i legami tra questi attori. Si è perciò deciso di definire un nuovo tipo di eventi ovvero i capitoli, gli attori si incontrano in questi eventi. Il volume è composto da 73 capitoli nei quali si alternano le vicende di questi personaggi, ciascun capitolo è strutturato dal punto di vista di uno specifico personaggio, perciò alcune considerazioni dovranno essere fatte al termine del lavoro.\\
 Nel volume troviamo i punti di vista di otto personaggi ovvero: Bran, Catelyn, Daenerys, Eddard, Jon, Arya, Tyrion, Sansa.\\
 Si è perciò andato a contare all'interno di ciascuno dei 73 capitoli quante volte ciascuno dei 105 personaggi veniva citato. Non è possibile perciò verificare se il personaggio sia davvero presente in quel capitolo o sia magari citato in un dialogo da uno degli altri personaggi presenti, quello che però traspare è che quel personaggio anche solo per il fatto di venire citato ha una influenza in quello specifico capitolo.\\
-Si è ottenuta una rete bimodale personaggi/capitoli ovvero attori/eventi, grazie a questa rete è stato possibile affiliarla in una rete monomodale personaggi/personaggi ovvero in una rete in cui si può valutare le interazioni che ha ciascun personaggio con ogni altro personaggi, ipotizzando che in ciascun capitolo ogni personaggio si relazioni con ogni altro personaggio citato in quel medesimo capitolo. A giustificare questo assunto bisogna tenere presente che l'unità fondamentale è il capitolo e che ciascun capitolo copre uno spettro di 13 pagine in media ed essendo i capitoli centrati su un personaggio il ritenere che ogni personaggi in un capitolo tessa le sue relazioni con ogni altro personaggio del capitolo è del tutto ragionevole.\\ 
+Si è ottenuta una rete bimodale personaggi/capitoli ovvero attori/eventi, grazie a questa rete è stato possibile affiliarla in una rete monomodale personaggi/personaggi ovvero in una rete in cui si può valutare le interazioni che ha ciascun personaggio con ogni altro personaggi, ipotizzando che in ciascun capitolo ogni personaggio si relazioni con ogni altro personaggio citato in quel medesimo capitolo. A giustificare questo assunto bisogna tenere presente che l'unità fondamentale è il capitolo e che ciascun capitolo copre uno spettro di 13 pagine in media ed essendo i capitoli centrati su un personaggio il ritenere che ogni personaggi in un capitolo tesse le sue relazioni con ogni altro personaggio del capitolo è del tutto ragionevole.\\ 
 Più un personaggio appare all'interno di un capitolo più è forte il legame relazionale che tesse con gli altri attori nel medesimo capitolo.
 
-
 \section{Strumenti}
+Fatta ora una premessa sulle scelte implementative bisogna considerare gli sturmenti utilizzati per portare a termine l'analisi.\\
+
+\subsection{Python}
+Si è scelto per poter elaborare rapidamente il volume di implementare uno script in pyhton che riesca ad estrapolare dal testo le occorrenze di ciascun personaggio.\\
+Per poter lavorare più rapidamente e quindi portare a termine il lavoro in tempi rapidi si è scelto di parallelizzare il lavoro facendo cercare in simultanea ad ogni thread le occorrenze di un personaggio specifico.\\
+Sempre tramite uno script python si è potuta estrapolare la suddivisione in capitoli del volume.
+Infine tramite uno script in pyhton si è raccolta la mole di dati ottenuta in un unico file finale pronto per essere elaborato da un analizzatore di reti sociali.
+
+\subsection{UciNet}
+Per poter elaborare i nodi così ottenuti nella forma: personaggio, capitolo, occorrenze si è utilizzato UciNet\cite{UciNet} un software scritto da Lin Freeman sulla fine degli anni '80 che ha subito numerosi aggiornamenti ed è tutt'ora tra i più utilizzati nello studio delle reti sociali, questo per via della sua interfaccia pratica e intuitiva e per la sua capacità di restituire rapidamente risultati apprezzabili e comparabili.
 
 \section{Analisi}
+Per prima cosa si è calcolato l'insieme delle triplette:\\
+nodo evento [valore]\\
+definita come\\
+personaggio capitolo citazione\\
+l'enlenco è stato importato in UciNet come NodeAttr l'insieme appare corretto e del tutto credibile.\\
+Sfruttando le funzionalità di UciNet si è affiliato da una bimodale ad una monomodale sulle righe personaggi, scegliendo come modalita la somma dei prodotti incrociati, (Sums of cross-products), ovvero la somma dei prodotti binari degli attori rispetto agli eventi. Che è l'equivalente di dire i casi in cui vi è co-orrorrenza.\\
+A questo grafo si è applicato un filtro rimuovendo tutti i legami di intensità inferiore a 680, grazie a questo espediente abbiamo rimosso dalla rete tutti quei collegamenti troppo esili per significare davvero un legame tra due personaggi. 
+\begin{figure}[h]
+\centering
+\includegraphics[width=.9\textwidth]{picture/029.png}
+\caption{Il Grafo delle reti sociali}
+\end{figure}
+La rete presente in figura uno è stata colorata applicando il metodo di partizione della rete per fazioni, richiedendo al programma di cercare 20 fazioni all'interno della rete così filtrata.\\
+\subsection{Casate}
+Grazie al filtro per sottogruppi siamo riusciti ad individuare quelle che a prima vista posso apparire come le casate ovvero le fazioni presenti nel Trono di Spade.\\
+Si è quindi scelto di analizzare numericamente quanto questa suddivisione riesce a catturare le reali casate del trono di spade.
+\begin{itemize}
+  \item \emph{Stark:} Eddard, Sansa, Arya, Bran, Robb, Rickon, Lyanna.
+  \item \emph{Baratheon:} Robert, Renly, Stannis, Joffrey, Myrcella, Tommen.
+  \item \emph{Lannister:} Tywin, Kevan, Cersei, Tyrion, Jaime.
+  \item \emph{Tully:} Catelyn, Lysa, Hoster, Bryden.
+  \item \emph{Targaryen:} Denerys, Viserys, Aerys, Rhaegar.
+  \item \emph{Clegane:} Gregor, Sandor.
+  \item \emph{Guardiani della Notte:} Jon Snow, Samwell Tarly, Meastro Aemon, Donal Noye, Jeor Mormont.
+\end{itemize}
 
+Fatta questa premessa possiamo verificare la corretta disposizione di 18 personaggi, la collocazione sbagliata di 18 personaggi e la mancata colorazione di 19 personaggi. Essendo che alcuni personaggi colorati in modo errato risultano mancanti occorre rimuoverli dall'insieme dei perosnaggi sbagliati. Peranto risulta che vi sono 11 personaggi colorati in modo errato e 19 personaggi che dovevano essere colorati di un colore e che lo sono stati di un altro da cui possiamo calcolare:
+
+\begin{displaymath}
+	p=1-\frac{19+11}{56}=0.46    
+\end{displaymath}
+
+Possiamo quindi concludere che la probabilità di individuare un personaggio corretto grazie a questa partizione del grafo è del 46\%, il che è un risultato piuttosto soddisfacente considerando che dividendo il gruppo casualmente in 7 fazioni la probabilità di colorare un elemento correttamente è del 14\%.
 \section{Conclusioni}
+
+\begin{thebibliography}{9}
+  \bibitem{UciNet}
+  	Borgatti, S.P., Everett, M.G. and Freeman, L.C. 2002. 		\emph{Ucinet for Windows: Software for Social Network Analysis. Harvard, MA: Analytic Technologies.} 
+\end{thebibliography}
 
 \end{document}
