@@ -22,7 +22,7 @@ Your abstract.
 
 \section{Introduzione}
 
-In questa relazione si è applicato la metodologia di analisi delle reti sociali al volume il trono di spade di George R. R. Martin. L'intento era di valutare la versatilità di questo approccio alle più disparate condizioni di utilizzo e estrapolare dal testo elementi realtivi al ruolo e agli eventi grazie a questa tecnica.\\
+In questa relazione si è applicato la metodologia della analisi delle reti sociali al volume Il trono di spade di George R. R. Martin. L'intento era di valutare la versatilità di questo approccio alle più disparate condizioni di utilizzo e estrapolare dal testo elementi realtivi al ruolo e agli eventi grazie a questa tecnica.\\
 L'analisi delle reti sociali è una moderna metodologia di analisi delle relazioni proposta da Jacob Levi Moreno fondatore della sociometria. 
 Con questa modalità di ricerca si supera il precendente apporccio basato su casi ovvero sulle proprietà di ciascun elemento, e si passa ad un approccio connessionista o strutturalista, ovvero basato su collegamenti con altri elmenti.\\
 L'approccio strutturalista permette di catturare il ruolo che un certo elemento ricopre all'interno della rete in funzione di come si relaziona agli altri elementi della rete.\\
@@ -48,27 +48,26 @@ Da queste due domande principali si diramano alcune considerazioni, secondarie m
 \section{Metodologia}
 
 Per poter lavorare su un volume di quasi 1000 pagine contenente 314886 parole è stato necessario definire con estrema cura il metodo di indagine.\\
-Si è quindi pensato di definire i personaggi principali del volume tralasciando solo le comparse, definendo quindi un elenco con i 105 personaggi riportati nelle appendici di fine libro. Per ciascuno di questi personaggi è stato individuato il nome, il titolo e qualsiasi riferimento nel testo che li definisca in modo univoco.\\
+Si è quindi pensato di definire i personaggi principali del volume tralasciando solo le comparse, prendendo in esame quindi un elenco con i 105 personaggi più importanti tra quelli riportati nelle appendici di fine libro. Per ciascuno di questi personaggi è stato individuato il nome, il titolo e qualsiasi riferimento nel testo che li caratterizzi in modo univoco.\\
 \newtheorem{xxx}{Esempio}
-Ad esempio Eddard Stark viene definito come:
+Ad esempio Eddard Stark viene elencato come:
 \begin{xxx}
 Eddard Stark, Eddard, Ned, lord di Grande Inverno, protettore del Nord, lord Stark
 \end{xxx}
 
-Definiti gli attori di questa rete è stato necessario definire i legami tra questi attori. Si è perciò deciso di definire un nuovo tipo di eventi ovvero i capitoli, gli attori si incontrano in questi eventi. Il volume è composto da 73 capitoli nei quali si alternano le vicende di questi personaggi, ciascun capitolo è strutturato dal punto di vista di uno specifico personaggio, perciò alcune considerazioni dovranno essere fatte al termine del lavoro.\\
+Definiti gli attori di questa rete è stato necessario calcolare i legami tra questi attori. Si è perciò deciso di dare una nuova definizione di evento ovvero i capitoli, gli attori si incontrano in questi eventi. Il volume è composto da 73 capitoli nei quali si alternano le vicende di questi personaggi, ciascun capitolo è strutturato dal punto di vista di uno specifico personaggio, perciò alcune considerazioni dovranno essere fatte al termine del lavoro.\\
 Nel volume troviamo i punti di vista di otto personaggi ovvero: Bran, Catelyn, Daenerys, Eddard, Jon, Arya, Tyrion, Sansa.\\
-Si è perciò andato a contare all'interno di ciascuno dei 73 capitoli quante volte ciascuno dei 105 personaggi veniva citato. Non è possibile perciò verificare se il personaggio sia davvero presente in quel capitolo o sia magari citato in un dialogo da uno degli altri personaggi presenti, quello che però traspare è che quel personaggio anche solo per il fatto di venire citato ha una influenza in quello specifico capitolo.\\
-Si è ottenuta una rete bimodale personaggi/capitoli ovvero attori/eventi, grazie a questa rete è stato possibile affiliarla in una rete monomodale personaggi/personaggi ovvero in una rete in cui si può valutare le interazioni che ha ciascun personaggio con ogni altro personaggi, ipotizzando che in ciascun capitolo ogni personaggio si relazioni con ogni altro personaggio citato in quel medesimo capitolo. A giustificare questo assunto bisogna tenere presente che l'unità fondamentale è il capitolo e che ciascun capitolo copre uno spettro di 13 pagine in media ed essendo i capitoli centrati su un personaggio il ritenere che ogni personaggi in un capitolo tesse le sue relazioni con ogni altro personaggio del capitolo è del tutto ragionevole.\\ 
+Si è perciò andato a contare all'interno dei 73 capitoli quante volte ciascuno dei 105 personaggi viene citato. Non è possibile perciò verificare se il personaggio sia davvero presente in quel capitolo o sia magari citato in un dialogo da uno degli altri personaggi presenti, quello che però traspare è che quel personaggio anche solo per il fatto di venire menzionato ha una influenza in quello specifico capitolo.\\
+Si è ottenuta una rete bimodale personaggi/capitoli, grazie a questa rete è stato possibile affiliarla in una rete monomodale personaggi/personaggi. Una rete in cui si può valutare le interazioni che ha ciascun personaggio con ogni altro personaggi. Si è ipotizzato che in ciascun capitolo ogni personaggio si relazioni con ogni altro personaggio citato in quel medesimo capitolo. A giustificare questo assunto bisogna tenere presente che l'unità fondamentale è il capitolo e che ciascun capitolo copre uno spettro di 13 pagine, in media, ed essendo i capitoli centrati su un personaggio il ritenere che ogni personaggi in un capitolo tesse le sue relazioni con ogni altro personaggio del capitolo è del tutto ragionevole.\\ 
 Più un personaggio appare all'interno di un capitolo più è forte il legame relazionale che tesse con gli altri attori nel medesimo capitolo.
 
 \section{Strumenti}
 Fatta ora una premessa sulle scelte implementative bisogna considerare gli sturmenti utilizzati per portare a termine l'analisi.\\
 
 \subsection{Python}
-Si è scelto per poter elaborare rapidamente il volume di implementare uno script in pyhton che riesca ad estrapolare dal testo le occorrenze di ciascun personaggio.\\
-Per poter lavorare più rapidamente e quindi portare a termine il lavoro in tempi rapidi si è scelto di parallelizzare il lavoro facendo cercare in simultanea ad ogni thread le occorrenze di un personaggio specifico.\\
-Sempre tramite uno script python si è potuta estrapolare la suddivisione in capitoli del volume.
-Infine tramite uno script in pyhton si è raccolta la mole di dati ottenuta in un unico file finale pronto per essere elaborato da un analizzatore di reti sociali.
+Si è scelto per poter elaborare rapidamente il volume di implementare uno script in pyhton che riesca ad estrapolare dal testo le occorrenze di ciascun personaggio, l'inizio di ciascun capitolo e compattare i risultati ottenuti in un unico file\\
+Il lavoro è stato svolto in parallelo applicando il pattern della map-reduce.
+
 
 \subsection{UciNet}
 Per poter elaborare i nodi così ottenuti nella forma: personaggio, capitolo, occorrenze si è utilizzato UciNet\cite{UciNet} un software scritto da Lin Freeman sulla fine degli anni '80 che ha subito numerosi aggiornamenti ed è tutt'ora tra i più utilizzati nello studio delle reti sociali, questo per via della sua interfaccia pratica e intuitiva e per la sua capacità di restituire rapidamente risultati apprezzabili e comparabili.
@@ -88,9 +87,10 @@ A questo grafo si è applicato un filtro rimuovendo tutti i legami di intensità
 \label{fig:grafo-partito}
 \end{figure}
 La rete presente in figura uno è stata colorata applicando il metodo di partizione della rete per fazioni, richiedendo al programma di cercare 20 fazioni all'interno della rete così filtrata.\\
+
 \subsection{Casate}
-Grazie al filtro per sottogruppi siamo riusciti ad individuare quelle che a prima vista posso apparire come le casate ovvero le fazioni presenti nel Trono di Spade.\\
-Si è quindi scelto di analizzare numericamente quanto questa suddivisione riesce a catturare le reali casate del trono di spade.
+Grazie al filtro per sottogruppi si è riuscito ad individuare quelle che a prima vista può apparire come le casate, ovvero le fazioni, presenti nel Trono di Spade.\\
+Si è quindi scelto di analizzare numericamente quanto questa suddivisione riesca a catturare le reali casate del trono di spade.
 \begin{itemize}
   \item \emph{Stark:} Eddard, Sansa, Arya, Bran, Robb, Rickon, Lyanna.
   \item \emph{Baratheon:} Robert, Renly, Stannis, Joffrey, Myrcella, Tommen.
@@ -101,7 +101,8 @@ Si è quindi scelto di analizzare numericamente quanto questa suddivisione riesc
   \item \emph{Guardiani della Notte:} Jon Snow, Samwell Tarly, Meastro Aemon, Donal Noye, Jeor Mormont.
 \end{itemize}
 
-Fatta questa premessa possiamo verificare la corretta disposizione di 18 personaggi, la collocazione sbagliata di 18 personaggi e la mancata colorazione di 19 personaggi. (Figura \ref{fig:grafo-partito}) Essendo che alcuni personaggi colorati in modo errato risultano mancanti occorre rimuoverli dall'insieme dei perosnaggi sbagliati. Peranto risulta che vi sono 11 personaggi colorati in modo errato e 19 personaggi che dovevano essere colorati di un colore e che lo sono stati di un altro da cui possiamo calcolare:
+Fatta questa premessa possiamo verificare la corretta disposizione di 18 personaggi, la collocazione sbagliata di 18 personaggi e la mancata colorazione di 19 personaggi. (Figura \ref{fig:grafo-partito}) Essendo che alcuni personaggi colorati in modo errato risultano mancanti occorre rimuoverli dall'insieme dei personaggi sbagliati. Peranto risulta che vi sono 11 personaggi colorati in modo errato e 19 personaggi che dovevano essere colorati di un colore e che lo sono stati di un altro.\\ 
+Da cui possiamo calcolare:
 
 \begin{equation}
 	p=1-\frac{19+11}{56}=0.46    
