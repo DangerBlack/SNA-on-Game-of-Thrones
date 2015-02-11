@@ -25,6 +25,9 @@
 book_file_name="volume1.txt"
 player_file_name="personaggi.txt"
 out_put_name="elenco_finale";
+#Thist const define how many times in the book a specific character had to appear in order not to be filtered by the system
+const=135;
+
 
 def load_names(personaggi_file):
 	in_file = open(personaggi_file,"r")
@@ -76,24 +79,33 @@ def save_presenziere(presenziere):
 	out_file.close()
 
 def save_curve(presenziere):
-	out_file = open("res/finale/courve_"+out_put_name+".txt","w")
+	out_file = open("res/finale/"+out_put_name+"_courve_tab.txt","w")
 	count=0;
 	for pres in presenziere:
-		out_file.write(pres[0]+","+str(pres[1])+"\n")
+		out_file.write(pres[0]+"	"+str(pres[1])+"\n")
 	out_file.close()
 	
 	
 personaggi=load_numbersOfpg(player_file_name)
 
 pg_names=load_names(player_file_name)
+
 lista_totale=[]
+lista_parziale=[];
 lista_curva=[]
 for x in range(0,personaggi):
+	importanza=sum_chapter_pg(pg_names[x],x);
+	lista_curva.extend(importanza)
+	if(importanza[0][1]>const):
+		lista_parziale.extend(load_chapter_pg(pg_names[x],x))
 	lista_totale.extend(load_chapter_pg(pg_names[x],x))
-	lista_curva.extend(sum_chapter_pg(pg_names[x],x))
+	
+lista_curva=sorted(lista_curva, key=lambda student: student[1],reverse=True)
 #print lista_totale
 save_presenziere(lista_totale)
 save_curve(lista_curva)
+out_put_name=out_put_name+'filtered';
+save_presenziere(lista_parziale)
 
 
 print "Saved in "+out_put_name
