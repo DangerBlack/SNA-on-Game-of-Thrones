@@ -54,6 +54,17 @@ def load_chapter_pg(pg_name,pg_index):
 	in_file.close()
 	return lista
 
+def sum_chapter_pg(pg_name,pg_index):
+	in_file = open("res/working/chapter"+str(pg_index)+".txt","r")
+	lines = in_file.readlines()
+	lista =[]
+	count = 0;
+	for q in range(0,len(lines)-1): #Rimuovo l'ultimo capitolo poiche e un capitolo virtuale costruito a tavolino, inutile
+		count=count+(int(lines[q][:-1]))
+	lista.append([pg_name,count]);
+	in_file.close()
+	return lista
+	
 def save_presenziere(presenziere):
 	out_file = open("res/finale/"+out_put_name+".csv","w")
 	for pres in presenziere:
@@ -63,13 +74,26 @@ def save_presenziere(presenziere):
 	for pres in presenziere:
 		out_file.write(pres[0]+"	"+str(pres[1])+"	"+str(pres[2])+"\n")
 	out_file.close()
+
+def save_curve(presenziere):
+	out_file = open("res/finale/courve_"+out_put_name+".txt","w")
+	count=0;
+	for pres in presenziere:
+		out_file.write(pres[0]+","+str(pres[1])+"\n")
+	out_file.close()
+	
 	
 personaggi=load_numbersOfpg(player_file_name)
 
 pg_names=load_names(player_file_name)
 lista_totale=[]
+lista_curva=[]
 for x in range(0,personaggi):
 	lista_totale.extend(load_chapter_pg(pg_names[x],x))
+	lista_curva.extend(sum_chapter_pg(pg_names[x],x))
 #print lista_totale
 save_presenziere(lista_totale)
+save_curve(lista_curva)
+
+
 print "Saved in "+out_put_name
