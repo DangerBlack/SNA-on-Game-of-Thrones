@@ -82,7 +82,7 @@ def save_curve(presenziere):
 	out_file = open("res/finale/"+out_put_name+"_courve_tab.txt","w")
 	count=0;
 	for pres in presenziere:
-		out_file.write(pres[0]+"	"+str(pres[1])+"\n")
+		out_file.write(str(pres[0])+"	"+str(pres[1])+"\n")
 	out_file.close()
 	
 	
@@ -93,6 +93,7 @@ pg_names=load_names(player_file_name)
 lista_totale=[]
 lista_parziale=[];
 lista_curva=[]
+lista_num_curva=[];
 for x in range(0,personaggi):
 	importanza=sum_chapter_pg(pg_names[x],x);
 	lista_curva.extend(importanza)
@@ -101,11 +102,16 @@ for x in range(0,personaggi):
 	lista_totale.extend(load_chapter_pg(pg_names[x],x))
 	
 lista_curva=sorted(lista_curva, key=lambda student: student[1],reverse=True)
+
+for x in range(0,personaggi):
+	print(lista_curva[x][1]);
+	lista_num_curva.append([str(x),lista_curva[x][1]]);
 #print lista_totale
 save_presenziere(lista_totale)
 save_curve(lista_curva)
-out_put_name=out_put_name+'filtered';
+temp_name=out_put_name
+out_put_name=temp_name+'filtered'
 save_presenziere(lista_parziale)
-
-
+out_put_name=temp_name+'_special'
+save_curve(lista_num_curva)
 print "Saved in "+out_put_name

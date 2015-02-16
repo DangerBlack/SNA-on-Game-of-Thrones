@@ -1,0 +1,15 @@
+# DangerBlack 
+# 16/02/2015
+set terminal png transparent nocrop enhanced size 800,600 font "arial,8" 
+set output 'res/finale/frequenza_personaggi.png'
+set key inside left top vertical Right noreverse enhanced autotitle box lt "black"
+set title "Frequenza Personaggi" font ",20"
+set key left box
+set samples 50
+#set style data points
+#plot "res/finale/elenco_finale_special_courve_tab.txt" using 1:2:(1.0) with yerrorbars lines
+
+plot "res/finale/elenco_finale_special_courve_tab.txt" using 1:2:(1.0) notitle with yerrorbars, \
+             "res/finale/elenco_finale_special_courve_tab.txt" using 1:2 smooth bezier \
+                                 title "frequenza" with lines,\
+#plot log(-x)
