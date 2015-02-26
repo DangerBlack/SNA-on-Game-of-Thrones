@@ -47,7 +47,7 @@ Da queste due domande principali si diramano alcune considerazioni, secondarie m
 
 \section{Metodologia}
 
-Per poter lavorare su un volume di quasi 1000 pagine contenente 314886 parole è stato necessario definire con estrema cura il metodo di indagine.\\
+Per poter lavorare su un volume di quasi 1000 pagine è stato necessario definire con estrema cura il metodo di indagine.\\
 Si è quindi pensato di definire i personaggi principali del volume tralasciando solo le comparse, prendendo in esame quindi un elenco con i 105 personaggi più importanti tra quelli riportati nelle appendici di fine libro. Per ciascuno di questi personaggi è stato individuato il nome, il titolo e qualsiasi riferimento nel testo che li caratterizzi in modo univoco.\\
 \newtheorem{xxx}{Esempio}
 Ad esempio Eddard Stark viene elencato come:
@@ -58,8 +58,12 @@ Eddard Stark, Eddard, Ned, lord di Grande Inverno, protettore del Nord, lord Sta
 Definiti gli attori di questa rete è stato necessario calcolare i legami tra questi attori. Si è perciò deciso di dare una nuova definizione di evento ovvero i capitoli, gli attori si incontrano in questi eventi. Il volume è composto da 73 capitoli nei quali si alternano le vicende di questi personaggi, ciascun capitolo è strutturato dal punto di vista di uno specifico personaggio, perciò alcune considerazioni dovranno essere fatte al termine del lavoro.\\
 Nel volume troviamo i punti di vista di otto personaggi ovvero: Bran, Catelyn, Daenerys, Eddard, Jon, Arya, Tyrion, Sansa.\\
 Si è perciò andato a contare all'interno dei 73 capitoli quante volte ciascuno dei 105 personaggi viene citato. Non è possibile perciò verificare se il personaggio sia davvero presente in quel capitolo o sia magari citato in un dialogo da uno degli altri personaggi presenti, quello che però traspare è che quel personaggio anche solo per il fatto di venire menzionato ha una influenza in quello specifico capitolo.\\
-Si è ottenuta una rete bimodale personaggi/capitoli, grazie a questa rete è stato possibile affiliarla in una rete monomodale personaggi/personaggi. Una rete in cui si può valutare le interazioni che ha ciascun personaggio con ogni altro personaggi. Si è ipotizzato che in ciascun capitolo ogni personaggio si relazioni con ogni altro personaggio citato in quel medesimo capitolo. A giustificare questo assunto bisogna tenere presente che l'unità fondamentale è il capitolo e che ciascun capitolo copre uno spettro di 13 pagine, in media, ed essendo i capitoli centrati su un personaggio il ritenere che ogni personaggi in un capitolo tesse le sue relazioni con ogni altro personaggio del capitolo è del tutto ragionevole.\\ 
+
+
+Da questo conteggio si è ottenuta una rete bimodale personaggi/capitoli, grazie a questa rete è stato possibile affiliarla in una rete monomodale personaggi/personaggi. Una rete in cui si può valutare le interazioni che ha ciascun personaggio con ogni altro personaggi. Si è ipotizzato che in ciascun capitolo ogni personaggio si relazioni con ogni altro personaggio citato in quel medesimo capitolo. A giustificare questo assunto bisogna tenere presente che l'unità fondamentale è il capitolo e che ciascun capitolo copre uno spettro di 13 pagine, in media, ed essendo i capitoli centrati su un personaggio il ritenere che ogni personaggi in un capitolo tesse le sue relazioni con ogni altro personaggio del capitolo è del tutto ragionevole.\\ 
 Più un personaggio appare all'interno di un capitolo più è forte il legame relazionale che tesse con gli altri attori nel medesimo capitolo.
+
+
 
 \section{Strumenti}
 Fatta ora una premessa sulle scelte implementative bisogna considerare gli sturmenti utilizzati per portare a termine l'analisi.\\
@@ -73,12 +77,39 @@ Il lavoro è stato svolto in parallelo applicando il pattern della map-reduce.
 Per poter elaborare i nodi così ottenuti nella forma: personaggio, capitolo, occorrenze si è utilizzato UciNet\cite{UciNet} un software scritto da Lin Freeman sulla fine degli anni '80 che ha subito numerosi aggiornamenti ed è tutt'ora tra i più utilizzati nello studio delle reti sociali, questo per via della sua interfaccia pratica e intuitiva e per la sua capacità di restituire rapidamente risultati apprezzabili e comparabili.
 
 \section{Analisi}
-Per prima cosa si è calcolato l'insieme delle triplette:\\
+
+Analizzando il numero di personaggi e contando globalmente il numero di volte in cui ciascuno di essi viene citato si è potuta produrre una curva che interpoli la frequenza di ciascun personaggio nel romanzo.(Fig. \ref{fig:frequenza-personaggi})
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=.5\textwidth]{picture/frequenza_personaggi.png}
+\caption{Grafico frequenza di ciascun personaggio nel romanzo}
+\label{fig:frequenza-personaggi}
+\end{figure}
+
+La suddetta distribuzione segue una legge di potenza, ciò suggerisce una cricca di pochi personaggi determinanti e una rete più ampia di personaggi meno importanti. Questa configurazione segue il principio di Pareto, ovvero il 20\% dei personaggi appare più dell'80\% delle volte nel romanzo.\\
+Per poter individuare univocamente questo sottoinsieme si è calcolato come segue 
+\begin{align}
+\sum\limits_{i=1}^n f(personaggio_i ) = 11743\\
+x:11743=80:100\nonumber\\
+x=11743*80/100\nonumber\\
+x=9394,4\nonumber  
+\end{align}
+
+Risolta l'equazione x rappresenta l'80\% dei legami della rete, questi legami sono distribuiti su di un numero esiguo di personaggi per poterli individuare si sono trovati tutti quei personaggi per cui sommandoli insieme la loro somma desse 9394,4.
+Tali personaggi appaiono nel romanzo con una frequenza superiore a 165, si è deciso di estendere a 135 includendo nell'insieme Lysa Tully poichè personaggio importante per la vicenda, ciò è corretto essendo la suddivisione 80/20 una scelta empirica è necessario contestualizzarla quanto più possibile per rappresentare il caso reale.\\
+
+Fatto ciò si è poi individuato l'insieme delle triplette:\\
 nodo evento [valore]\\
 definita come\\
 personaggio capitolo citazione\\
 l'enlenco è stato importato in UciNet come NodeAttr l'insieme appare corretto e del tutto credibile.\\
+
+
 Sfruttando le funzionalità di UciNet si è affiliato da una bimodale ad una monomodale sulle righe personaggi, scegliendo come modalita la somma dei prodotti incrociati, (Sums of cross-products), ovvero la somma dei prodotti binari degli attori rispetto agli eventi. Che è l'equivalente di dire i casi in cui vi è co-orrorrenza.\\
+
+Degli attori imporati si è scelto di filtrare gli attori con meno di 135 occorrenze totali ovvero di conservare solo il 20\% dei personaggi i quali meglio rappresentano i personaggi chiave del romanzo, a questa principale scrematura si 
+
 A questo grafo si è applicato un filtro rimuovendo tutti i legami di intensità inferiore a 680, grazie a questo espediente abbiamo rimosso dalla rete tutti quei collegamenti troppo esili per significare davvero un legame tra due personaggi. 
 \begin{figure}[h]
 \centering
@@ -149,6 +180,7 @@ Per poter rompere altri legami matrimoniali bisogna spingersi a 5323 dove si spe
 
 
 \section{Conclusioni}
+
 
 \begin{thebibliography}{9}
   \bibitem{UciNet}
