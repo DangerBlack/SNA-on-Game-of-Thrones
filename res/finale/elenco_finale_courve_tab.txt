@@ -1,0 +1,105 @@
+Catelyn	1288
+Eddard Stark	1140
+Jon Snow	936
+Tyrion	715
+Bran	619
+Robert Baratheon	541
+Joffrey	491
+Arya	473
+Sansa	445
+Robb	432
+Daenerys	359
+Cersei	337
+Khal Drogo	319
+Petyr Baelish	254
+Jaime Lannister	232
+Tywin Lannister	211
+Jorah Mormont	193
+Varys	188
+Samwell Tarly	165
+Lysa Tully	136
+Viserys	135
+Barristan Selmy	133
+Theon Greyjoy	127
+Jon Arryn	117
+Renly	112
+Sandor Clegane	106
+Gregor Clegane	98
+Pycelle	90
+Stannis	82
+Illyrio Mopatis	82
+Maestro Aemon	77
+Hodor	68
+Rickon	64
+Jeor Mormont	55
+vecchia Nan	50
+Rhaegar	48
+Maestro Luwin	44
+Hoster Tully	43
+Meryn Trant	42
+Irri	41
+Loras	40
+Osha	40
+Ilyn Payne	37
+Lyanna	37
+Jon Umber	37
+Benjen Stark	37
+Kevan	36
+Yoren	34
+Aegon	30
+Mya Stone	29
+Boros Blount	27
+Myrcella	26
+Tommen	25
+Lord Frey	21
+Bryden Tully	20
+Balon Greyjoy	19
+Roose Bolton	17
+Janos Slynt	16
+Aerys Targaryen	13
+Helman Tallhart	10
+Arys Oakheart	9
+Donal Noye	9
+Rickard Karstark	8
+Mace Tyrell	7
+Jhaqo	7
+Robert Arryn	5
+Ser Vardis Egen	5
+Elia	5
+Mance Ryder	5
+Rhaenys	4
+Ser Alliser Thorne	4
+Ragazzo di luna	3
+Lancel	3
+Preston Greenfield	3
+Mandon Moore	3
+Maestro Colemon	3
+Doran Nymerios Martell	3
+Pono	3
+Cotter Pyke	3
+Jalabhar Xho	2
+Vargo Hoat	2
+Margaery	2
+Asha	2
+Quorin il Monco	2
+Selyse	1
+Wyman Manderly	1
+Shireen	0
+Lady Alerie	0
+Willas	0
+Garlan	0
+Olenna	0
+Alannys	0
+Euron	0
+Vìctarion	0
+Aeron	0
+Mellario	0
+Arianne	0
+Quentyn	0
+Trystane	0
+Oberyn	0
+Areo Hotah	0
+Maestro Caleotte	0
+Rhaella	0
+Davos Seaworth	0
+Rodrick Cassel	0

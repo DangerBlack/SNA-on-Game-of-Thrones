@@ -1,0 +1,1480 @@
+Robert Baratheon	0	2
+Robert Baratheon	1	2
+Robert Baratheon	2	8
+Robert Baratheon	3	0
+Robert Baratheon	4	49
+Robert Baratheon	5	2
+Robert Baratheon	6	8
+Robert Baratheon	7	0
+Robert Baratheon	8	8
+Robert Baratheon	9	5
+Robert Baratheon	10	1
+Robert Baratheon	11	0
+Robert Baratheon	12	50
+Robert Baratheon	13	4
+Robert Baratheon	14	0
+Robert Baratheon	15	7
+Robert Baratheon	16	29
+Robert Baratheon	17	1
+Robert Baratheon	18	3
+Robert Baratheon	19	3
+Robert Baratheon	20	17
+Robert Baratheon	21	2
+Robert Baratheon	22	1
+Robert Baratheon	23	0
+Robert Baratheon	24	2
+Robert Baratheon	25	4
+Robert Baratheon	26	0
+Robert Baratheon	27	8
+Robert Baratheon	28	1
+Robert Baratheon	29	4
+Robert Baratheon	30	60
+Robert Baratheon	31	0
+Robert Baratheon	32	4
+Robert Baratheon	33	24
+Robert Baratheon	34	12
+Robert Baratheon	35	11
+Robert Baratheon	36	6
+Robert Baratheon	37	1
+Robert Baratheon	38	5
+Robert Baratheon	39	24
+Robert Baratheon	40	8
+Robert Baratheon	41	0
+Robert Baratheon	42	0
+Robert Baratheon	43	8
+Robert Baratheon	44	1
+Robert Baratheon	45	19
+Robert Baratheon	46	0
+Robert Baratheon	47	46
+Robert Baratheon	48	0
+Robert Baratheon	49	10
+Robert Baratheon	50	0
+Robert Baratheon	51	8
+Robert Baratheon	52	7
+Robert Baratheon	53	2
+Robert Baratheon	54	2
+Robert Baratheon	55	3
+Robert Baratheon	56	5
+Robert Baratheon	57	6
+Robert Baratheon	58	20
+Robert Baratheon	59	0
+Robert Baratheon	60	1
+Robert Baratheon	61	1
+Robert Baratheon	62	1
+Robert Baratheon	63	0
+Robert Baratheon	64	1
+Robert Baratheon	65	5
+Robert Baratheon	66	2
+Robert Baratheon	67	6
+Robert Baratheon	68	1
+Robert Baratheon	69	1
+Robert Baratheon	70	0
+Robert Baratheon	71	9
+Robert Baratheon	72	0
+Robert Baratheon	73	0
+Cersei	0	0
+Cersei	1	0
+Cersei	2	4
+Cersei	3	3
+Cersei	4	5
+Cersei	5	11
+Cersei	6	2
+Cersei	7	2
+Cersei	8	8
+Cersei	9	9
+Cersei	10	0
+Cersei	11	0
+Cersei	12	2
+Cersei	13	3
+Cersei	14	1
+Cersei	15	21
+Cersei	16	17
+Cersei	17	0
+Cersei	18	3
+Cersei	19	1
+Cersei	20	3
+Cersei	21	0
+Cersei	22	3
+Cersei	23	2
+Cersei	24	0
+Cersei	25	3
+Cersei	26	0
+Cersei	27	0
+Cersei	28	0
+Cersei	29	8
+Cersei	30	19
+Cersei	31	0
+Cersei	32	3
+Cersei	33	2
+Cersei	34	1
+Cersei	35	2
+Cersei	36	0
+Cersei	37	0
+Cersei	38	5
+Cersei	39	18
+Cersei	40	4
+Cersei	41	0
+Cersei	42	0
+Cersei	43	3
+Cersei	44	4
+Cersei	45	21
+Cersei	46	0
+Cersei	47	14
+Cersei	48	0
+Cersei	49	12
+Cersei	50	1
+Cersei	51	43
+Cersei	52	1
+Cersei	53	1
+Cersei	54	0
+Cersei	55	3
+Cersei	56	1
+Cersei	57	22
+Cersei	58	26
+Cersei	59	0
+Cersei	60	0
+Cersei	61	0
+Cersei	62	0
+Cersei	63	0
+Cersei	64	0
+Cersei	65	4
+Cersei	66	1
+Cersei	67	7
+Cersei	68	0
+Cersei	69	4
+Cersei	70	0
+Cersei	71	4
+Cersei	72	0
+Cersei	73	0
+Joffrey	0	0
+Joffrey	1	0
+Joffrey	2	0
+Joffrey	3	0
+Joffrey	4	2
+Joffrey	5	4
+Joffrey	6	8
+Joffrey	7	30
+Joffrey	8	4
+Joffrey	9	14
+Joffrey	10	0
+Joffrey	11	0
+Joffrey	12	0
+Joffrey	13	2
+Joffrey	14	0
+Joffrey	15	84
+Joffrey	16	21
+Joffrey	17	0
+Joffrey	18	2
+Joffrey	19	0
+Joffrey	20	2
+Joffrey	21	0
+Joffrey	22	10
+Joffrey	23	0
+Joffrey	24	0
+Joffrey	25	2
+Joffrey	26	0
+Joffrey	27	0
+Joffrey	28	0
+Joffrey	29	18
+Joffrey	30	6
+Joffrey	31	2
+Joffrey	32	0
+Joffrey	33	0
+Joffrey	34	0
+Joffrey	35	0
+Joffrey	36	0
+Joffrey	37	0
+Joffrey	38	0
+Joffrey	39	0
+Joffrey	40	0
+Joffrey	41	0
+Joffrey	42	0
+Joffrey	43	2
+Joffrey	44	20
+Joffrey	45	6
+Joffrey	46	0
+Joffrey	47	24
+Joffrey	48	0
+Joffrey	49	19
+Joffrey	50	0
+Joffrey	51	49
+Joffrey	52	8
+Joffrey	53	4
+Joffrey	54	0
+Joffrey	55	0
+Joffrey	56	0
+Joffrey	57	44
+Joffrey	58	8
+Joffrey	59	2
+Joffrey	60	2
+Joffrey	61	0
+Joffrey	62	0
+Joffrey	63	0
+Joffrey	64	0
+Joffrey	65	16
+Joffrey	66	0
+Joffrey	67	54
+Joffrey	68	0
+Joffrey	69	10
+Joffrey	70	0
+Joffrey	71	12
+Joffrey	72	0
+Joffrey	73	0
+Petyr Baelish	0	0
+Petyr Baelish	1	0
+Petyr Baelish	2	0
+Petyr Baelish	3	0
+Petyr Baelish	4	0
+Petyr Baelish	5	0
+Petyr Baelish	6	0
+Petyr Baelish	7	0
+Petyr Baelish	8	1
+Petyr Baelish	9	0
+Petyr Baelish	10	0
+Petyr Baelish	11	0
+Petyr Baelish	12	0
+Petyr Baelish	13	0
+Petyr Baelish	14	0
+Petyr Baelish	15	0
+Petyr Baelish	16	0
+Petyr Baelish	17	0
+Petyr Baelish	18	31
+Petyr Baelish	19	0
+Petyr Baelish	20	52
+Petyr Baelish	21	0
+Petyr Baelish	22	0
+Petyr Baelish	23	0
+Petyr Baelish	24	0
+Petyr Baelish	25	19
+Petyr Baelish	26	0
+Petyr Baelish	27	6
+Petyr Baelish	28	1
+Petyr Baelish	29	2
+Petyr Baelish	30	10
+Petyr Baelish	31	11
+Petyr Baelish	32	2
+Petyr Baelish	33	9
+Petyr Baelish	34	3
+Petyr Baelish	35	17
+Petyr Baelish	36	0
+Petyr Baelish	37	0
+Petyr Baelish	38	0
+Petyr Baelish	39	1
+Petyr Baelish	40	12
+Petyr Baelish	41	0
+Petyr Baelish	42	0
+Petyr Baelish	43	8
+Petyr Baelish	44	1
+Petyr Baelish	45	12
+Petyr Baelish	46	0
+Petyr Baelish	47	20
+Petyr Baelish	48	0
+Petyr Baelish	49	7
+Petyr Baelish	50	0
+Petyr Baelish	51	8
+Petyr Baelish	52	0
+Petyr Baelish	53	0
+Petyr Baelish	54	0
+Petyr Baelish	55	0
+Petyr Baelish	56	0
+Petyr Baelish	57	4
+Petyr Baelish	58	7
+Petyr Baelish	59	0
+Petyr Baelish	60	0
+Petyr Baelish	61	0
+Petyr Baelish	62	0
+Petyr Baelish	63	0
+Petyr Baelish	64	0
+Petyr Baelish	65	0
+Petyr Baelish	66	0
+Petyr Baelish	67	2
+Petyr Baelish	68	0
+Petyr Baelish	69	2
+Petyr Baelish	70	0
+Petyr Baelish	71	6
+Petyr Baelish	72	0
+Petyr Baelish	73	0
+Varys	0	0
+Varys	1	0
+Varys	2	0
+Varys	3	3
+Varys	4	0
+Varys	5	0
+Varys	6	0
+Varys	7	0
+Varys	8	0
+Varys	9	0
+Varys	10	0
+Varys	11	0
+Varys	12	7
+Varys	13	0
+Varys	14	0
+Varys	15	0
+Varys	16	0
+Varys	17	0
+Varys	18	25
+Varys	19	0
+Varys	20	18
+Varys	21	0
+Varys	22	0
+Varys	23	0
+Varys	24	0
+Varys	25	7
+Varys	26	0
+Varys	27	3
+Varys	28	0
+Varys	29	0
+Varys	30	30
+Varys	31	0
+Varys	32	0
+Varys	33	11
+Varys	34	0
+Varys	35	0
+Varys	36	0
+Varys	37	0
+Varys	38	0
+Varys	39	0
+Varys	40	0
+Varys	41	0
+Varys	42	0
+Varys	43	8
+Varys	44	0
+Varys	45	6
+Varys	46	0
+Varys	47	12
+Varys	48	0
+Varys	49	8
+Varys	50	0
+Varys	51	9
+Varys	52	0
+Varys	53	0
+Varys	54	1
+Varys	55	0
+Varys	56	0
+Varys	57	5
+Varys	58	25
+Varys	59	1
+Varys	60	0
+Varys	61	0
+Varys	62	0
+Varys	63	0
+Varys	64	1
+Varys	65	5
+Varys	66	0
+Varys	67	0
+Varys	68	0
+Varys	69	3
+Varys	70	0
+Varys	71	0
+Varys	72	0
+Varys	73	0
+Jaime Lannister	0	0
+Jaime Lannister	1	0
+Jaime Lannister	2	0
+Jaime Lannister	3	3
+Jaime Lannister	4	3
+Jaime Lannister	5	5
+Jaime Lannister	6	0
+Jaime Lannister	7	0
+Jaime Lannister	8	2
+Jaime Lannister	9	16
+Jaime Lannister	10	0
+Jaime Lannister	11	0
+Jaime Lannister	12	18
+Jaime Lannister	13	1
+Jaime Lannister	14	3
+Jaime Lannister	15	1
+Jaime Lannister	16	2
+Jaime Lannister	17	0
+Jaime Lannister	18	3
+Jaime Lannister	19	0
+Jaime Lannister	20	0
+Jaime Lannister	21	3
+Jaime Lannister	22	0
+Jaime Lannister	23	0
+Jaime Lannister	24	0
+Jaime Lannister	25	1
+Jaime Lannister	26	0
+Jaime Lannister	27	0
+Jaime Lannister	28	1
+Jaime Lannister	29	13
+Jaime Lannister	30	19
+Jaime Lannister	31	1
+Jaime Lannister	32	1
+Jaime Lannister	33	0
+Jaime Lannister	34	1
+Jaime Lannister	35	10
+Jaime Lannister	36	1
+Jaime Lannister	37	0
+Jaime Lannister	38	7
+Jaime Lannister	39	11
+Jaime Lannister	40	5
+Jaime Lannister	41	0
+Jaime Lannister	42	6
+Jaime Lannister	43	0
+Jaime Lannister	44	5
+Jaime Lannister	45	11
+Jaime Lannister	46	0
+Jaime Lannister	47	3
+Jaime Lannister	48	0
+Jaime Lannister	49	3
+Jaime Lannister	50	1
+Jaime Lannister	51	0
+Jaime Lannister	52	0
+Jaime Lannister	53	0
+Jaime Lannister	54	0
+Jaime Lannister	55	8
+Jaime Lannister	56	6
+Jaime Lannister	57	6
+Jaime Lannister	58	3
+Jaime Lannister	59	6
+Jaime Lannister	60	0
+Jaime Lannister	61	0
+Jaime Lannister	62	4
+Jaime Lannister	63	21
+Jaime Lannister	64	0
+Jaime Lannister	65	0
+Jaime Lannister	66	0
+Jaime Lannister	67	1
+Jaime Lannister	68	0
+Jaime Lannister	69	13
+Jaime Lannister	70	0
+Jaime Lannister	71	4
+Jaime Lannister	72	0
+Jaime Lannister	73	0
+Eddard Stark	0	0
+Eddard Stark	1	16
+Eddard Stark	2	33
+Eddard Stark	3	0
+Eddard Stark	4	78
+Eddard Stark	5	6
+Eddard Stark	6	64
+Eddard Stark	7	0
+Eddard Stark	8	6
+Eddard Stark	9	4
+Eddard Stark	10	1
+Eddard Stark	11	0
+Eddard Stark	12	66
+Eddard Stark	13	3
+Eddard Stark	14	12
+Eddard Stark	15	4
+Eddard Stark	16	40
+Eddard Stark	17	0
+Eddard Stark	18	2
+Eddard Stark	19	4
+Eddard Stark	20	82
+Eddard Stark	21	1
+Eddard Stark	22	16
+Eddard Stark	23	0
+Eddard Stark	24	1
+Eddard Stark	25	43
+Eddard Stark	26	1
+Eddard Stark	27	58
+Eddard Stark	28	4
+Eddard Stark	29	0
+Eddard Stark	30	100
+Eddard Stark	31	0
+Eddard Stark	32	8
+Eddard Stark	33	44
+Eddard Stark	34	6
+Eddard Stark	35	44
+Eddard Stark	36	3
+Eddard Stark	37	3
+Eddard Stark	38	2
+Eddard Stark	39	43
+Eddard Stark	40	0
+Eddard Stark	41	1
+Eddard Stark	42	1
+Eddard Stark	43	41
+Eddard Stark	44	8
+Eddard Stark	45	39
+Eddard Stark	46	0
+Eddard Stark	47	81
+Eddard Stark	48	1
+Eddard Stark	49	35
+Eddard Stark	50	2
+Eddard Stark	51	3
+Eddard Stark	52	7
+Eddard Stark	53	9
+Eddard Stark	54	0
+Eddard Stark	55	8
+Eddard Stark	56	3
+Eddard Stark	57	4
+Eddard Stark	58	40
+Eddard Stark	59	3
+Eddard Stark	60	9
+Eddard Stark	61	0
+Eddard Stark	62	2
+Eddard Stark	63	7
+Eddard Stark	64	0
+Eddard Stark	65	10
+Eddard Stark	66	4
+Eddard Stark	67	1
+Eddard Stark	68	0
+Eddard Stark	69	4
+Eddard Stark	70	4
+Eddard Stark	71	15
+Eddard Stark	72	0
+Eddard Stark	73	0
+Catelyn	0	0
+Catelyn	1	0
+Catelyn	2	52
+Catelyn	3	0
+Catelyn	4	10
+Catelyn	5	3
+Catelyn	6	112
+Catelyn	7	2
+Catelyn	8	2
+Catelyn	9	1
+Catelyn	10	16
+Catelyn	11	0
+Catelyn	12	6
+Catelyn	13	1
+Catelyn	14	112
+Catelyn	15	3
+Catelyn	16	0
+Catelyn	17	0
+Catelyn	18	94
+Catelyn	19	0
+Catelyn	20	47
+Catelyn	21	0
+Catelyn	22	0
+Catelyn	23	0
+Catelyn	24	0
+Catelyn	25	3
+Catelyn	26	2
+Catelyn	27	2
+Catelyn	28	113
+Catelyn	29	0
+Catelyn	30	0
+Catelyn	31	62
+Catelyn	32	0
+Catelyn	33	10
+Catelyn	34	184
+Catelyn	35	2
+Catelyn	36	0
+Catelyn	37	2
+Catelyn	38	16
+Catelyn	39	8
+Catelyn	40	81
+Catelyn	41	1
+Catelyn	42	6
+Catelyn	43	4
+Catelyn	44	0
+Catelyn	45	4
+Catelyn	46	0
+Catelyn	47	8
+Catelyn	48	2
+Catelyn	49	0
+Catelyn	50	0
+Catelyn	51	10
+Catelyn	52	1
+Catelyn	53	2
+Catelyn	54	0
+Catelyn	55	76
+Catelyn	56	0
+Catelyn	57	2
+Catelyn	58	8
+Catelyn	59	86
+Catelyn	60	0
+Catelyn	61	0
+Catelyn	62	2
+Catelyn	63	54
+Catelyn	64	0
+Catelyn	65	0
+Catelyn	66	0
+Catelyn	67	0
+Catelyn	68	0
+Catelyn	69	0
+Catelyn	70	0
+Catelyn	71	76
+Catelyn	72	0
+Catelyn	73	0
+Robb	0	0
+Robb	1	28
+Robb	2	0
+Robb	3	0
+Robb	4	0
+Robb	5	6
+Robb	6	6
+Robb	7	16
+Robb	8	5
+Robb	9	0
+Robb	10	9
+Robb	11	0
+Robb	12	0
+Robb	13	1
+Robb	14	40
+Robb	15	0
+Robb	16	0
+Robb	17	2
+Robb	18	0
+Robb	19	6
+Robb	20	0
+Robb	21	1
+Robb	22	3
+Robb	23	0
+Robb	24	33
+Robb	25	0
+Robb	26	3
+Robb	27	2
+Robb	28	0
+Robb	29	0
+Robb	30	0
+Robb	31	0
+Robb	32	1
+Robb	33	0
+Robb	34	0
+Robb	35	0
+Robb	36	0
+Robb	37	61
+Robb	38	0
+Robb	39	0
+Robb	40	0
+Robb	41	1
+Robb	42	0
+Robb	43	1
+Robb	44	1
+Robb	45	1
+Robb	46	0
+Robb	47	1
+Robb	48	2
+Robb	49	0
+Robb	50	5
+Robb	51	3
+Robb	52	3
+Robb	53	42
+Robb	54	0
+Robb	55	40
+Robb	56	1
+Robb	57	1
+Robb	58	1
+Robb	59	28
+Robb	60	2
+Robb	61	0
+Robb	62	4
+Robb	63	32
+Robb	64	0
+Robb	65	0
+Robb	66	1
+Robb	67	3
+Robb	68	0
+Robb	69	4
+Robb	70	5
+Robb	71	27
+Robb	72	0
+Robb	73	0
+Sansa	0	0
+Sansa	1	0
+Sansa	2	1
+Sansa	3	0
+Sansa	4	2
+Sansa	5	3
+Sansa	6	4
+Sansa	7	19
+Sansa	8	1
+Sansa	9	0
+Sansa	10	1
+Sansa	11	0
+Sansa	12	0
+Sansa	13	0
+Sansa	14	1
+Sansa	15	94
+Sansa	16	9
+Sansa	17	1
+Sansa	18	0
+Sansa	19	1
+Sansa	20	4
+Sansa	21	0
+Sansa	22	15
+Sansa	23	0
+Sansa	24	0
+Sansa	25	3
+Sansa	26	0
+Sansa	27	0
+Sansa	28	0
+Sansa	29	53
+Sansa	30	16
+Sansa	31	0
+Sansa	32	1
+Sansa	33	0
+Sansa	34	1
+Sansa	35	0
+Sansa	36	0
+Sansa	37	0
+Sansa	38	0
+Sansa	39	1
+Sansa	40	0
+Sansa	41	0
+Sansa	42	0
+Sansa	43	1
+Sansa	44	48
+Sansa	45	3
+Sansa	46	0
+Sansa	47	1
+Sansa	48	0
+Sansa	49	7
+Sansa	50	3
+Sansa	51	56
+Sansa	52	2
+Sansa	53	6
+Sansa	54	0
+Sansa	55	5
+Sansa	56	0
+Sansa	57	32
+Sansa	58	3
+Sansa	59	0
+Sansa	60	0
+Sansa	61	0
+Sansa	62	0
+Sansa	63	0
+Sansa	64	0
+Sansa	65	7
+Sansa	66	0
+Sansa	67	39
+Sansa	68	0
+Sansa	69	0
+Sansa	70	0
+Sansa	71	1
+Sansa	72	0
+Sansa	73	0
+Arya	0	0
+Arya	1	0
+Arya	2	1
+Arya	3	0
+Arya	4	0
+Arya	5	3
+Arya	6	2
+Arya	7	56
+Arya	8	1
+Arya	9	0
+Arya	10	16
+Arya	11	0
+Arya	12	0
+Arya	13	0
+Arya	14	0
+Arya	15	53
+Arya	16	23
+Arya	17	1
+Arya	18	0
+Arya	19	2
+Arya	20	5
+Arya	21	0
+Arya	22	64
+Arya	23	0
+Arya	24	0
+Arya	25	9
+Arya	26	1
+Arya	27	0
+Arya	28	0
+Arya	29	2
+Arya	30	9
+Arya	31	0
+Arya	32	55
+Arya	33	0
+Arya	34	0
+Arya	35	0
+Arya	36	0
+Arya	37	0
+Arya	38	0
+Arya	39	2
+Arya	40	0
+Arya	41	2
+Arya	42	0
+Arya	43	0
+Arya	44	22
+Arya	45	2
+Arya	46	0
+Arya	47	0
+Arya	48	0
+Arya	49	3
+Arya	50	54
+Arya	51	2
+Arya	52	4
+Arya	53	3
+Arya	54	0
+Arya	55	1
+Arya	56	0
+Arya	57	3
+Arya	58	0
+Arya	59	2
+Arya	60	0
+Arya	61	0
+Arya	62	0
+Arya	63	0
+Arya	64	0
+Arya	65	68
+Arya	66	0
+Arya	67	0
+Arya	68	0
+Arya	69	0
+Arya	70	1
+Arya	71	1
+Arya	72	0
+Arya	73	0
+Bran	0	0
+Bran	1	45
+Bran	2	5
+Bran	3	0
+Bran	4	3
+Bran	5	1
+Bran	6	13
+Bran	7	5
+Bran	8	62
+Bran	9	6
+Bran	10	17
+Bran	11	0
+Bran	12	2
+Bran	13	0
+Bran	14	32
+Bran	15	0
+Bran	16	0
+Bran	17	34
+Bran	18	8
+Bran	19	9
+Bran	20	11
+Bran	21	4
+Bran	22	4
+Bran	23	0
+Bran	24	80
+Bran	25	4
+Bran	26	1
+Bran	27	3
+Bran	28	3
+Bran	29	1
+Bran	30	6
+Bran	31	1
+Bran	32	1
+Bran	33	2
+Bran	34	2
+Bran	35	0
+Bran	36	0
+Bran	37	82
+Bran	38	2
+Bran	39	1
+Bran	40	8
+Bran	41	1
+Bran	42	0
+Bran	43	0
+Bran	44	1
+Bran	45	3
+Bran	46	0
+Bran	47	2
+Bran	48	0
+Bran	49	0
+Bran	50	6
+Bran	51	0
+Bran	52	2
+Bran	53	76
+Bran	54	0
+Bran	55	0
+Bran	56	0
+Bran	57	1
+Bran	58	2
+Bran	59	1
+Bran	60	1
+Bran	61	0
+Bran	62	0
+Bran	63	2
+Bran	64	0
+Bran	65	3
+Bran	66	53
+Bran	67	0
+Bran	68	0
+Bran	69	0
+Bran	70	4
+Bran	71	3
+Bran	72	0
+Bran	73	0
+Jon Snow	0	0
+Jon Snow	1	31
+Jon Snow	2	5
+Jon Snow	3	0
+Jon Snow	4	7
+Jon Snow	5	72
+Jon Snow	6	21
+Jon Snow	7	23
+Jon Snow	8	7
+Jon Snow	9	0
+Jon Snow	10	38
+Jon Snow	11	0
+Jon Snow	12	5
+Jon Snow	13	42
+Jon Snow	14	1
+Jon Snow	15	3
+Jon Snow	16	0
+Jon Snow	17	2
+Jon Snow	18	0
+Jon Snow	19	82
+Jon Snow	20	5
+Jon Snow	21	21
+Jon Snow	22	5
+Jon Snow	23	0
+Jon Snow	24	8
+Jon Snow	25	9
+Jon Snow	26	77
+Jon Snow	27	12
+Jon Snow	28	1
+Jon Snow	29	0
+Jon Snow	30	15
+Jon Snow	31	1
+Jon Snow	32	9
+Jon Snow	33	4
+Jon Snow	34	10
+Jon Snow	35	4
+Jon Snow	36	0
+Jon Snow	37	5
+Jon Snow	38	3
+Jon Snow	39	0
+Jon Snow	40	6
+Jon Snow	41	41
+Jon Snow	42	0
+Jon Snow	43	0
+Jon Snow	44	2
+Jon Snow	45	8
+Jon Snow	46	0
+Jon Snow	47	3
+Jon Snow	48	44
+Jon Snow	49	0
+Jon Snow	50	5
+Jon Snow	51	1
+Jon Snow	52	103
+Jon Snow	53	7
+Jon Snow	54	0
+Jon Snow	55	9
+Jon Snow	56	0
+Jon Snow	57	1
+Jon Snow	58	3
+Jon Snow	59	4
+Jon Snow	60	75
+Jon Snow	61	0
+Jon Snow	62	0
+Jon Snow	63	5
+Jon Snow	64	0
+Jon Snow	65	2
+Jon Snow	66	4
+Jon Snow	67	0
+Jon Snow	68	0
+Jon Snow	69	1
+Jon Snow	70	73
+Jon Snow	71	11
+Jon Snow	72	0
+Jon Snow	73	0
+Tywin Lannister	0	0
+Tywin Lannister	1	0
+Tywin Lannister	2	0
+Tywin Lannister	3	0
+Tywin Lannister	4	6
+Tywin Lannister	5	1
+Tywin Lannister	6	0
+Tywin Lannister	7	0
+Tywin Lannister	8	0
+Tywin Lannister	9	0
+Tywin Lannister	10	0
+Tywin Lannister	11	0
+Tywin Lannister	12	7
+Tywin Lannister	13	1
+Tywin Lannister	14	0
+Tywin Lannister	15	0
+Tywin Lannister	16	0
+Tywin Lannister	17	0
+Tywin Lannister	18	0
+Tywin Lannister	19	0
+Tywin Lannister	20	1
+Tywin Lannister	21	3
+Tywin Lannister	22	0
+Tywin Lannister	23	0
+Tywin Lannister	24	0
+Tywin Lannister	25	1
+Tywin Lannister	26	0
+Tywin Lannister	27	0
+Tywin Lannister	28	0
+Tywin Lannister	29	0
+Tywin Lannister	30	6
+Tywin Lannister	31	6
+Tywin Lannister	32	3
+Tywin Lannister	33	0
+Tywin Lannister	34	2
+Tywin Lannister	35	1
+Tywin Lannister	36	2
+Tywin Lannister	37	0
+Tywin Lannister	38	1
+Tywin Lannister	39	0
+Tywin Lannister	40	1
+Tywin Lannister	41	0
+Tywin Lannister	42	5
+Tywin Lannister	43	14
+Tywin Lannister	44	0
+Tywin Lannister	45	6
+Tywin Lannister	46	0
+Tywin Lannister	47	3
+Tywin Lannister	48	0
+Tywin Lannister	49	0
+Tywin Lannister	50	0
+Tywin Lannister	51	0
+Tywin Lannister	52	0
+Tywin Lannister	53	2
+Tywin Lannister	54	0
+Tywin Lannister	55	19
+Tywin Lannister	56	31
+Tywin Lannister	57	6
+Tywin Lannister	58	0
+Tywin Lannister	59	19
+Tywin Lannister	60	0
+Tywin Lannister	61	0
+Tywin Lannister	62	28
+Tywin Lannister	63	2
+Tywin Lannister	64	0
+Tywin Lannister	65	0
+Tywin Lannister	66	0
+Tywin Lannister	67	0
+Tywin Lannister	68	0
+Tywin Lannister	69	25
+Tywin Lannister	70	0
+Tywin Lannister	71	9
+Tywin Lannister	72	0
+Tywin Lannister	73	0
+Tyrion	0	0
+Tyrion	1	0
+Tyrion	2	0
+Tyrion	3	0
+Tyrion	4	2
+Tyrion	5	18
+Tyrion	6	0
+Tyrion	7	0
+Tyrion	8	1
+Tyrion	9	46
+Tyrion	10	0
+Tyrion	11	0
+Tyrion	12	0
+Tyrion	13	53
+Tyrion	14	0
+Tyrion	15	0
+Tyrion	16	0
+Tyrion	17	0
+Tyrion	18	2
+Tyrion	19	25
+Tyrion	20	4
+Tyrion	21	69
+Tyrion	22	0
+Tyrion	23	0
+Tyrion	24	18
+Tyrion	25	0
+Tyrion	26	2
+Tyrion	27	0
+Tyrion	28	13
+Tyrion	29	0
+Tyrion	30	3
+Tyrion	31	82
+Tyrion	32	2
+Tyrion	33	2
+Tyrion	34	14
+Tyrion	35	0
+Tyrion	36	0
+Tyrion	37	2
+Tyrion	38	83
+Tyrion	39	4
+Tyrion	40	19
+Tyrion	41	0
+Tyrion	42	50
+Tyrion	43	1
+Tyrion	44	0
+Tyrion	45	1
+Tyrion	46	0
+Tyrion	47	1
+Tyrion	48	0
+Tyrion	49	0
+Tyrion	50	0
+Tyrion	51	0
+Tyrion	52	1
+Tyrion	53	2
+Tyrion	54	0
+Tyrion	55	2
+Tyrion	56	45
+Tyrion	57	0
+Tyrion	58	2
+Tyrion	59	0
+Tyrion	60	0
+Tyrion	61	0
+Tyrion	62	108
+Tyrion	63	0
+Tyrion	64	0
+Tyrion	65	0
+Tyrion	66	0
+Tyrion	67	0
+Tyrion	68	0
+Tyrion	69	35
+Tyrion	70	1
+Tyrion	71	2
+Tyrion	72	0
+Tyrion	73	0
+Lysa Tully	0	0
+Lysa Tully	1	0
+Lysa Tully	2	1
+Lysa Tully	3	0
+Lysa Tully	4	3
+Lysa Tully	5	0
+Lysa Tully	6	6
+Lysa Tully	7	0
+Lysa Tully	8	4
+Lysa Tully	9	0
+Lysa Tully	10	0
+Lysa Tully	11	0
+Lysa Tully	12	2
+Lysa Tully	13	0
+Lysa Tully	14	1
+Lysa Tully	15	0
+Lysa Tully	16	0
+Lysa Tully	17	0
+Lysa Tully	18	1
+Lysa Tully	19	0
+Lysa Tully	20	0
+Lysa Tully	21	0
+Lysa Tully	22	0
+Lysa Tully	23	0
+Lysa Tully	24	0
+Lysa Tully	25	5
+Lysa Tully	26	0
+Lysa Tully	27	2
+Lysa Tully	28	4
+Lysa Tully	29	0
+Lysa Tully	30	1
+Lysa Tully	31	1
+Lysa Tully	32	1
+Lysa Tully	33	0
+Lysa Tully	34	34
+Lysa Tully	35	0
+Lysa Tully	36	0
+Lysa Tully	37	0
+Lysa Tully	38	25
+Lysa Tully	39	0
+Lysa Tully	40	26
+Lysa Tully	41	0
+Lysa Tully	42	2
+Lysa Tully	43	0
+Lysa Tully	44	0
+Lysa Tully	45	0
+Lysa Tully	46	0
+Lysa Tully	47	0
+Lysa Tully	48	0
+Lysa Tully	49	0
+Lysa Tully	50	0
+Lysa Tully	51	1
+Lysa Tully	52	0
+Lysa Tully	53	0
+Lysa Tully	54	0
+Lysa Tully	55	3
+Lysa Tully	56	0
+Lysa Tully	57	1
+Lysa Tully	58	1
+Lysa Tully	59	2
+Lysa Tully	60	0
+Lysa Tully	61	0
+Lysa Tully	62	1
+Lysa Tully	63	0
+Lysa Tully	64	0
+Lysa Tully	65	0
+Lysa Tully	66	0
+Lysa Tully	67	0
+Lysa Tully	68	0
+Lysa Tully	69	0
+Lysa Tully	70	0
+Lysa Tully	71	8
+Lysa Tully	72	0
+Lysa Tully	73	0
+Daenerys	0	0
+Daenerys	1	0
+Daenerys	2	0
+Daenerys	3	30
+Daenerys	4	0
+Daenerys	5	0
+Daenerys	6	0
+Daenerys	7	0
+Daenerys	8	0
+Daenerys	9	0
+Daenerys	10	0
+Daenerys	11	36
+Daenerys	12	1
+Daenerys	13	0
+Daenerys	14	0
+Daenerys	15	0
+Daenerys	16	0
+Daenerys	17	0
+Daenerys	18	0
+Daenerys	19	0
+Daenerys	20	0
+Daenerys	21	0
+Daenerys	22	0
+Daenerys	23	42
+Daenerys	24	0
+Daenerys	25	0
+Daenerys	26	0
+Daenerys	27	0
+Daenerys	28	0
+Daenerys	29	0
+Daenerys	30	0
+Daenerys	31	0
+Daenerys	32	0
+Daenerys	33	5
+Daenerys	34	0
+Daenerys	35	0
+Daenerys	36	29
+Daenerys	37	0
+Daenerys	38	0
+Daenerys	39	0
+Daenerys	40	0
+Daenerys	41	0
+Daenerys	42	0
+Daenerys	43	0
+Daenerys	44	0
+Daenerys	45	0
+Daenerys	46	38
+Daenerys	47	3
+Daenerys	48	0
+Daenerys	49	0
+Daenerys	50	0
+Daenerys	51	0
+Daenerys	52	0
+Daenerys	53	0
+Daenerys	54	47
+Daenerys	55	0
+Daenerys	56	0
+Daenerys	57	0
+Daenerys	58	0
+Daenerys	59	0
+Daenerys	60	0
+Daenerys	61	32
+Daenerys	62	0
+Daenerys	63	0
+Daenerys	64	53
+Daenerys	65	0
+Daenerys	66	0
+Daenerys	67	0
+Daenerys	68	43
+Daenerys	69	0
+Daenerys	70	0
+Daenerys	71	0
+Daenerys	72	0
+Daenerys	73	0
+Khal Drogo	0	0
+Khal Drogo	1	0
+Khal Drogo	2	0
+Khal Drogo	3	22
+Khal Drogo	4	0
+Khal Drogo	5	0
+Khal Drogo	6	0
+Khal Drogo	7	0
+Khal Drogo	8	0
+Khal Drogo	9	0
+Khal Drogo	10	0
+Khal Drogo	11	42
+Khal Drogo	12	1
+Khal Drogo	13	0
+Khal Drogo	14	0
+Khal Drogo	15	0
+Khal Drogo	16	0
+Khal Drogo	17	0
+Khal Drogo	18	0
+Khal Drogo	19	0
+Khal Drogo	20	0
+Khal Drogo	21	0
+Khal Drogo	22	0
+Khal Drogo	23	19
+Khal Drogo	24	0
+Khal Drogo	25	0
+Khal Drogo	26	0
+Khal Drogo	27	0
+Khal Drogo	28	0
+Khal Drogo	29	0
+Khal Drogo	30	0
+Khal Drogo	31	0
+Khal Drogo	32	0
+Khal Drogo	33	3
+Khal Drogo	34	0
+Khal Drogo	35	0
+Khal Drogo	36	22
+Khal Drogo	37	0
+Khal Drogo	38	0
+Khal Drogo	39	0
+Khal Drogo	40	0
+Khal Drogo	41	0
+Khal Drogo	42	0
+Khal Drogo	43	0
+Khal Drogo	44	0
+Khal Drogo	45	0
+Khal Drogo	46	57
+Khal Drogo	47	0
+Khal Drogo	48	0
+Khal Drogo	49	0
+Khal Drogo	50	0
+Khal Drogo	51	0
+Khal Drogo	52	0
+Khal Drogo	53	0
+Khal Drogo	54	28
+Khal Drogo	55	0
+Khal Drogo	56	0
+Khal Drogo	57	0
+Khal Drogo	58	0
+Khal Drogo	59	0
+Khal Drogo	60	0
+Khal Drogo	61	40
+Khal Drogo	62	0
+Khal Drogo	63	0
+Khal Drogo	64	59
+Khal Drogo	65	0
+Khal Drogo	66	0
+Khal Drogo	67	0
+Khal Drogo	68	26
+Khal Drogo	69	0
+Khal Drogo	70	0
+Khal Drogo	71	0
+Khal Drogo	72	0
+Khal Drogo	73	0
+Jorah Mormont	0	0
+Jorah Mormont	1	0
+Jorah Mormont	2	0
+Jorah Mormont	3	4
+Jorah Mormont	4	0
+Jorah Mormont	5	0
+Jorah Mormont	6	0
+Jorah Mormont	7	0
+Jorah Mormont	8	0
+Jorah Mormont	9	0
+Jorah Mormont	10	0
+Jorah Mormont	11	8
+Jorah Mormont	12	6
+Jorah Mormont	13	0
+Jorah Mormont	14	0
+Jorah Mormont	15	0
+Jorah Mormont	16	0
+Jorah Mormont	17	0
+Jorah Mormont	18	0
+Jorah Mormont	19	0
+Jorah Mormont	20	0
+Jorah Mormont	21	1
+Jorah Mormont	22	0
+Jorah Mormont	23	26
+Jorah Mormont	24	0
+Jorah Mormont	25	0
+Jorah Mormont	26	0
+Jorah Mormont	27	0
+Jorah Mormont	28	0
+Jorah Mormont	29	0
+Jorah Mormont	30	0
+Jorah Mormont	31	0
+Jorah Mormont	32	0
+Jorah Mormont	33	5
+Jorah Mormont	34	0
+Jorah Mormont	35	0
+Jorah Mormont	36	20
+Jorah Mormont	37	0
+Jorah Mormont	38	0
+Jorah Mormont	39	0
+Jorah Mormont	40	0
+Jorah Mormont	41	0
+Jorah Mormont	42	0
+Jorah Mormont	43	0
+Jorah Mormont	44	0
+Jorah Mormont	45	0
+Jorah Mormont	46	19
+Jorah Mormont	47	0
+Jorah Mormont	48	0
+Jorah Mormont	49	0
+Jorah Mormont	50	0
+Jorah Mormont	51	0
+Jorah Mormont	52	1
+Jorah Mormont	53	0
+Jorah Mormont	54	32
+Jorah Mormont	55	0
+Jorah Mormont	56	0
+Jorah Mormont	57	0
+Jorah Mormont	58	0
+Jorah Mormont	59	0
+Jorah Mormont	60	2
+Jorah Mormont	61	15
+Jorah Mormont	62	0
+Jorah Mormont	63	0
+Jorah Mormont	64	30
+Jorah Mormont	65	0
+Jorah Mormont	66	0
+Jorah Mormont	67	0
+Jorah Mormont	68	22
+Jorah Mormont	69	0
+Jorah Mormont	70	2
+Jorah Mormont	71	0
+Jorah Mormont	72	0
+Jorah Mormont	73	0
+Samwell Tarly	0	0
+Samwell Tarly	1	0
+Samwell Tarly	2	0
+Samwell Tarly	3	0
+Samwell Tarly	4	0
+Samwell Tarly	5	0
+Samwell Tarly	6	0
+Samwell Tarly	7	0
+Samwell Tarly	8	0
+Samwell Tarly	9	0
+Samwell Tarly	10	0
+Samwell Tarly	11	0
+Samwell Tarly	12	0
+Samwell Tarly	13	0
+Samwell Tarly	14	0
+Samwell Tarly	15	0
+Samwell Tarly	16	0
+Samwell Tarly	17	0
+Samwell Tarly	18	0
+Samwell Tarly	19	0
+Samwell Tarly	20	0
+Samwell Tarly	21	0
+Samwell Tarly	22	0
+Samwell Tarly	23	0
+Samwell Tarly	24	0
+Samwell Tarly	25	0
+Samwell Tarly	26	64
+Samwell Tarly	27	0
+Samwell Tarly	28	0
+Samwell Tarly	29	0
+Samwell Tarly	30	0
+Samwell Tarly	31	0
+Samwell Tarly	32	0
+Samwell Tarly	33	0
+Samwell Tarly	34	0
+Samwell Tarly	35	0
+Samwell Tarly	36	0
+Samwell Tarly	37	0
+Samwell Tarly	38	0
+Samwell Tarly	39	0
+Samwell Tarly	40	0
+Samwell Tarly	41	20
+Samwell Tarly	42	0
+Samwell Tarly	43	0
+Samwell Tarly	44	0
+Samwell Tarly	45	0
+Samwell Tarly	46	0
+Samwell Tarly	47	0
+Samwell Tarly	48	32
+Samwell Tarly	49	0
+Samwell Tarly	50	0
+Samwell Tarly	51	0
+Samwell Tarly	52	26
+Samwell Tarly	53	0
+Samwell Tarly	54	0
+Samwell Tarly	55	0
+Samwell Tarly	56	0
+Samwell Tarly	57	0
+Samwell Tarly	58	0
+Samwell Tarly	59	0
+Samwell Tarly	60	10
+Samwell Tarly	61	0
+Samwell Tarly	62	0
+Samwell Tarly	63	0
+Samwell Tarly	64	0
+Samwell Tarly	65	0
+Samwell Tarly	66	0
+Samwell Tarly	67	0
+Samwell Tarly	68	0
+Samwell Tarly	69	0
+Samwell Tarly	70	13
+Samwell Tarly	71	0
+Samwell Tarly	72	0
+Samwell Tarly	73	0
