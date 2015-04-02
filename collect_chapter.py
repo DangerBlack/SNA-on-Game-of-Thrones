@@ -84,7 +84,15 @@ def save_curve(presenziere):
 	for pres in presenziere:
 		out_file.write(str(pres[0])+"	"+str(pres[1])+"\n")
 	out_file.close()
-	
+
+def load_chapter_pg_n(pg_name,pg_index,start,end):
+	in_file = open("res/working/chapter"+str(pg_index)+".txt","r")
+	lines = in_file.readlines()
+	lista =[]
+	for q in range(start,end): #Rimuovo l'ultimo capitolo poiche e un capitolo virtuale costruito a tavolino, inutile
+		lista.append([pg_name,q,lines[q][:-1]]);
+	in_file.close()
+	return lista
 	
 personaggi=load_numbersOfpg(player_file_name)
 
@@ -94,12 +102,23 @@ lista_totale=[]
 lista_parziale=[];
 lista_curva=[]
 lista_num_curva=[];
+lista_tripla=[[],[],[]];
+
+
 for x in range(0,personaggi):
 	importanza=sum_chapter_pg(pg_names[x],x);
 	lista_curva.extend(importanza)
 	if(importanza[0][1]>const):
 		lista_parziale.extend(load_chapter_pg(pg_names[x],x))
 	lista_totale.extend(load_chapter_pg(pg_names[x],x))
+
+for x in range(0,personaggi):
+	importanza=load_chapter_pg_n(pg_names[x],x,0,25)
+	lista_tripla[0].extend(importanza)
+	importanza=load_chapter_pg_n(pg_names[x],x,26,50)
+	lista_tripla[1].extend(importanza)		
+	importanza=load_chapter_pg_n(pg_names[x],x,51,72)
+	lista_tripla[2].extend(importanza)
 	
 lista_curva=sorted(lista_curva, key=lambda student: student[1],reverse=True)
 
@@ -114,4 +133,11 @@ out_put_name=temp_name+'filtered'
 save_presenziere(lista_parziale)
 out_put_name=temp_name+'_special'
 save_curve(lista_num_curva)
+out_put_name=temp_name+'_0'
+save_presenziere(lista_tripla[0])
+out_put_name=temp_name+'_1'
+save_presenziere(lista_tripla[1])
+out_put_name=temp_name+'_2'
+save_presenziere(lista_tripla[2])
+
 print "Saved in "+out_put_name
